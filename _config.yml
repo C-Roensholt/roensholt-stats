@@ -39,7 +39,7 @@ round-avatar: true
 # Select the social network links that you want to show in the footer.
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
-  email: "ronsholt32@gmail.com"
+#  email: "ronsholt32@gmail.com"
 #  facebook: deanattali
   github: c-rnshlt
   twitter: C_Roensholt
@@ -64,7 +64,7 @@ social-network-links:
 
 # If you want to show a link to an RSS in the footer, add the site description here.
 # If you don't want to show an RSS link, remove the following line.
-rss-description: This website is a virtual proof that I'm awesome
+
 
 # --- General options --- #
 
@@ -93,15 +93,15 @@ feed_show_tags: true
 
 # Personalize the colours in your website. Colour values can be any valid CSS colour
 
-navbar-col: "#EAEAEA"
-navbar-text-col: "#404040"
+navbar-col: "#322737"
+navbar-text-col: "#8d8d8d"
 navbar-border-col: "#DDDDDD"
-page-col: "#FFFFFF"
-text-col: "#404040"
-link-col: "#008AFF"
+page-col: "#1e1e1e"
+text-col: "#8d8d8d"
+link-col: "#faa419"
 hover-col: "#0085A1"
-footer-col: "#EAEAEA"
-footer-text-col: "#777777"
+footer-col: "#322737"
+footer-text-col: "#8d8d8d"
 footer-link-col: "#404040"
 
 # Alternatively, the navbar, footer, and page background can be set to an image
