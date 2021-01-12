@@ -7,7 +7,7 @@ subtitle: >-
 date: '2020-08-14'
 readtime: true
 ---
-# Expected Goals - Hvordan laver man en Expected Goals model?
+### Introduktion
 
 `Expected Goals (xG)` har i de seneste år været en meget omdiskuteret del af fodbold analyse, og er efterhånden blevet noget alle fodboldfans kender. Men xG er, som mange andre elementer i maskin læring, en "black boks". 
 Hvordan kan to forskellige udbydere af xG f.eks. have henholdsvis 0.8 xG og 1.27 xG? (https://twitter.com/tapinfodbold/status/1280186019309072384)
