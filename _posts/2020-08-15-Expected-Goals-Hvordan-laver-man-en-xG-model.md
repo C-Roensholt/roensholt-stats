@@ -157,7 +157,6 @@ target = "outcome"
 df_final[features+[target]].head()
 ```
 
-```html
 <div>
 <style scoped>
     .dataframe tbody tr th:only-of-type {
@@ -221,7 +220,7 @@ df_final[features+[target]].head()
   </tbody>
 </table>
 </div>
-```
+
 
 Vi splitter nu vores dataset ind i et `test_set` og `train_set`, og sikrer os at dataen er spillet ordentligt.
 
@@ -258,7 +257,6 @@ test_set[f"{target}_pred"] = predictions[f"{target}_prob"]
 test_set.head()
 ```
 
-```html
 <div>
 <style scoped>
     .dataframe tbody tr th:only-of-type {
@@ -328,7 +326,7 @@ test_set.head()
   </tbody>
 </table>
 </div>
-```
+
 
 Som man kan se i første kolonne har et skud med foden, 17 meter til mål og en vinkel på 0.46 i følge vores model en xG på __0.08__, eller __8%__.
 
@@ -368,6 +366,5 @@ ax2.set_title("Statsbomb_xg probabilities")
 plt.show()
 ```
 
-```html
+
 <img src="https://res.cloudinary.com/do2kmsou1/image/upload/v1597775551/output_40_0_imykd1.png" alt="drawing" width="800"/>
-```
