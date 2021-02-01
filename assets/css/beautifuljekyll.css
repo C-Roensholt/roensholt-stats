@@ -850,7 +850,7 @@ code {
 pre code {
   padding: 0;
   color:#1da1f2;
-  background-color: #253341;
+  background-color: transparent;
   border-radius: 0;
 }
 
