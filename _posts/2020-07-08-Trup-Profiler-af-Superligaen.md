@@ -55,22 +55,34 @@ Det er muligvis den mest bemærkelsesværdige trup aldersprofil i hele fodboldve
 
 ![alt text](/img/lyngby_squad_age_profile.png)
 
+Lyngby's trup er i høj grad betående af aldrende spillere, men de skal måske sættes deres lid til den unge lejesvend Victor Torp hvis de skal overleve i Superligaen.
+
 #### OB
 
 ![alt text](/img/ob_squad_age_profile.png)
+
+Aldersfordelingen i OB er meget jævnligt fordelt med både unge spillere, især Oliver Christensen i buret og Mads Frøkjær med mange spilleminutter, og samtidig den rutinerede Janus Drachmann som giver noget erfaring til truppen.
 
 #### Randers FC
 
 ![alt text](/img/randers_squad_age_profile.png)
 
+Randers følger i fodsporerne af OB med en relativt jævnligt fordelt trup, men der er dog en del spillere i omkring slutningen af deres bedste fodboldalder. Det er ligeledes en klub med lange kontrakter til deres spillere.
+
 #### SønderjyskE
 
 ![alt text](/img/sonderjyskE_squad_age_profile.png)
+
+Hos SønderjyskE springer de mange spillere forbi deres bedste fodboldalder og samtidig en høj andel af spilleminutter i øjnene. Det er noget man skal være opmærksomme på i SønderjyskE, men de gode præstationer hos Glen Riddersholm tropper er dog ikke til at komme udenom.
 
 #### Vejle BK
 
 ![alt text](/img/vejle_squad_age_profile.png)
 
+Den store diversitet i Vejle truppen kommer ligeledes til udtryk i deres aldersprofil, hvor spilminutter primært er delt mellem unge og erfarne spillere. De mange spilleminutter for Wahid Faghir og Malte Amundsen er specielt vær at notere.
+
 #### AaB
 
 ![alt text](/img/aab_squad_age_profile.png)
+
+Aab's har en trup aldersfordeling der minder meget om både Randers og OB med mange spillere i og efter deres bedste fodboldalder, som udgør deres største andel af spilleminutterne for sæsonen. Men hos AaB ser man dog flere unge spillere på vej frem, som også får en god andel spilleminutter. 
