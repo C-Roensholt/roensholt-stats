@@ -4,7 +4,7 @@ published: true
 title: Analyse af aldersfordelingen i den danske Superliga
 subtitle: >-
   Analyse af aldersfordelingen fordelt på antal minutter spillet i Superligaen. Afhænger FCK for meget af alderende profiler og udgør 75% Nordsjællands samlede spilminutter virkelig af spillere under 21 år?
-date: '2020-02-06'
+date: '2021-02-06'
 readtime: true
 ---
 ## Introduktion
