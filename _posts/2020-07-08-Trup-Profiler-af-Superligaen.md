@@ -9,9 +9,9 @@ readtime: true
 ---
 ## Introduktion
 
-Aldersprofilen sæsonenen 2019/2020 i den danske Superliga er ekstrem interessant. FC Nordsjælland med en gennemsnitsalder på 22 år og 160 dage har de den yngste trup i **hele Europa**. AC Horsens fik den yngste målscorer i Superligaens historie, og det var AC Horsens. Samtidig skal et alderende FC København mandskab måske snart tænke på det generationsskifte, mens både AGF og FC Midtjylland har en god blanding af spillere i deres "peak" alder og unge spillere på vej op.
+Aldersprofilen sæsonenen 2020/2021 i den danske Superliga er ekstrem interessant. FC Nordsjælland med en gennemsnitsalder på 20 år og 292 dage har de den yngste trup i **hele Europa**. Samtidig skal et alderende FC København mandskab måske snart tænke på det generationsskifte, mens både AGF og FC Midtjylland har en god blanding af spillere i deres bedste  fodboldalder og ligeledes med unge spillere på vej op.
   
-I denne blog post vil jeg gennemgå alle de danske Superliga trupper og knytte et par kommentarer til hver trup.
+I denne blog post vil jeg gennemgå de danske Superliga trupper og knytte et par kommentarer til hver trup.
 
 #### AC Horsens
 
