@@ -89,7 +89,12 @@ Aab's har en trup aldersfordeling der minder meget om både Randers og OB med ma
 
 #### Hvordan sammenligner Superligaen og 1. division med resten af foldboldeuropa?
 
+Hvis vi tager et kig udenfor de danske grænser og sammenligner alderen i Superligaen og 1. division med resten af de europæiske ligaer, ser man også et interessant mønster. Med en gennemsnitsalder på 23,7 har 1. division har den laveste gennemsnitsalder i hele Europa, mens Superligaen med lige over 24 år har kun Norge og Schweiz en yngre liga i hele Europa.
+
 ![alt text](/img/league_average_age_europe.png)
 
+Hvis vi tager et kig på klubberne, så ser vi hele 4 danske hold i blandt de 10 yngste trupper i blandt de europæiske ligaer nævnt på billedet ovenfor. Mens de ældste trupper primært findes i England og Spanien.
 
 ![alt text](/img/team_average_age_europe.png)
+
+Det kan bestemt være positivt for den danske liga og dansk fodbold at man generelt ser så mange unge spillere i den danske liga. Det kan trække flere store talenter til ligaen, hvor vi blandt andet har set Andreas Schjelderup fravælge flere store europæiske ligaer til fordel for FC Nordsjælland. De unge spillere ved at de får chancen i Danmark, hvilket kan få flere store klubber til at kigge Danmarks vej når de skal hente deres næste store stjerne, Jonas Wind, Kamaldeen Sulemana og de mange unde talenter i dansk fodbold. Men det skal selvfølgelig ikke gå udover kvaliteten af ligaen og holdenes præstationer, da Europa- og Champions League fodbold stadigvæk er det mest vitale for dansk fodbolds fremtid og velvære.
