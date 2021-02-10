@@ -3,15 +3,27 @@ layout: post
 published: true
 title: Analyse af aldersfordelingen i den danske Superliga
 subtitle: >-
-  Analyse af aldersfordelingen fordelt på antal minutter spillet i Superligaen. Afhænger FCK for meget af alderende profiler og udgør 75% Nordsjællands samlede spilminutter virkelig af spillere under 21 år?
+  Dette blog post giver et lille indblik i alderfordelingen i dansk fodbold. Hvordan er den generelle aldersprofil at af dansk fodbold? Afhænger FCK for meget af alderende profiler og udgør 75% Nordsjællands samlede spilminutter virkelig af spillere under 21 år?
 date: '2021-02-06'
 readtime: true
 ---
 ## Introduktion
 
 Aldersprofilen sæsonenen 2020/2021 i den danske Superliga er ekstrem interessant. FC Nordsjælland med en gennemsnitsalder på 20 år og 292 dage har de den yngste trup i **hele Europa**. Samtidig skal et alderende FC København mandskab måske snart tænke på det generationsskifte, mens både AGF og FC Midtjylland har en god blanding af spillere i deres bedste  fodboldalder og ligeledes med unge spillere på vej op.
-  
-I denne blog post vil jeg gennemgå de danske Superliga trupper og knytte et par kommentarer til hver trup.
+
+I denne blog post vil jeg først se på de brede tendenser i de dansk fodbold og så gennemgå de danske Superliga trupper og knytte et par kommentarer til hver trup.
+
+#### Hvordan sammenlignes Superligaen og 1. division med resten af foldboldeuropa?
+
+Hvis vi tager et kig udenfor de danske grænser og sammenligner alderen i Superligaen og 1. division med resten af de europæiske ligaer, ser man også et interessant mønster. Med en gennemsnitsalder på 23,7 har 1. division har den laveste gennemsnitsalder i hele Europa, mens Superligaen med lige over 24 år har kun Norge og Schweiz en yngre liga i hele Europa.
+
+![alt text](/img/league_average_age_europe.png)
+
+Hvis vi tager et kig på klubberne, så ser vi hele 4 danske hold i blandt de 10 yngste trupper i blandt de europæiske ligaer nævnt på billedet ovenfor. Mens de ældste trupper primært findes i England og Spanien.
+
+![alt text](/img/team_average_age_europe.png)
+
+Vi vil nu kigge på alderfordelingen sammenlignet med andel af spilminutter for hvert Superliga hold, og jeg vil knytte et par korte kommentarer med eventuelle bekymringer eller begejstring til holdenes aldersprofil.
 
 #### AC Horsens
 
@@ -87,14 +99,5 @@ Den store diversitet i Vejle truppen kommer ligeledes til udtryk i deres aldersp
 
 Aab's har en trup aldersfordeling der minder meget om både Randers og OB med mange spillere i og efter deres bedste fodboldalder, som udgør deres største andel af spilleminutterne for sæsonen. Men hos AaB ser man dog flere unge spillere på vej frem, som også får en god andel spilleminutter. 
 
-#### Hvordan sammenligner Superligaen og 1. division med resten af foldboldeuropa?
+#### Aflstuttende bemærkning
 
-Hvis vi tager et kig udenfor de danske grænser og sammenligner alderen i Superligaen og 1. division med resten af de europæiske ligaer, ser man også et interessant mønster. Med en gennemsnitsalder på 23,7 har 1. division har den laveste gennemsnitsalder i hele Europa, mens Superligaen med lige over 24 år har kun Norge og Schweiz en yngre liga i hele Europa.
-
-![alt text](/img/league_average_age_europe.png)
-
-Hvis vi tager et kig på klubberne, så ser vi hele 4 danske hold i blandt de 10 yngste trupper i blandt de europæiske ligaer nævnt på billedet ovenfor. Mens de ældste trupper primært findes i England og Spanien.
-
-![alt text](/img/team_average_age_europe.png)
-
-Det kan bestemt være positivt for den danske liga og dansk fodbold at man generelt ser så mange unge spillere i den danske liga. Det kan trække flere store talenter til ligaen, hvor vi blandt andet har set Andreas Schjelderup fravælge flere store europæiske ligaer til fordel for FC Nordsjælland. De unge spillere ved at de får chancen i Danmark, hvilket kan få flere store klubber til at kigge Danmarks vej når de skal hente deres næste store stjerne, Jonas Wind, Kamaldeen Sulemana og de mange unde talenter i dansk fodbold. Men det skal selvfølgelig ikke gå udover kvaliteten af ligaen og holdenes præstationer, da Europa- og Champions League fodbold stadigvæk er det mest vitale for dansk fodbolds fremtid og velvære.
