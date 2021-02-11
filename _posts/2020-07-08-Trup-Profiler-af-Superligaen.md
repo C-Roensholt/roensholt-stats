@@ -101,3 +101,8 @@ Aab's har en trup aldersfordeling der minder meget om både Randers og OB med ma
 
 #### Aflstuttende bemærkning
 
+Vi kan altså se at dansk fodbold generelt har en meget und profil, hvor flere hold gør brug af unge spillere der samtidig har en relativ høj andel af holdets spilleminutter. Dette er en tendens som på flere måder kan ses med positive øjne. 
+
+Det fremmer både de unge danske spilleres udvikling, og samtidig giver det incitiament for store unge talenter til at vælge Superligaen frem for større destinationer i Europa. Her vil spilletiden være mere sparsom, mens de i Superligaen kan se at de får chancen. Det har vi bl.a. for nyligt set med Andreas Schjelderup, som valgte FC Nordsjælland fremfor flere større destinationer i Europa. Samtidig ser vi at de hold som ligger i toppen af ligaen har en større diversitet i deres trup med flere ældre erfarne spillere.
+
+Brugen af unge spillere skal dog ikke gå på kompromis med kvaliteten af dansk fodbold på den store skala. Fordi det vigtigste for dansk foldbold er at de danske klubber klarer sig godt i de europæiske turneringer, men brugen af unge spillere er dog nødvendigvis ikke med til at foringe kvalititen af dansk fodbold på europæisk basis.
