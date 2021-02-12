@@ -6,7 +6,7 @@ subtitle: >-
   Dette blog post giver et lille indblik i alderfordelingen i dansk fodbold. Hvordan er den generelle aldersprofil at af dansk fodbold? Afhænger FCK for meget af alderende profiler og udgør 75% Nordsjællands samlede spilminutter virkelig af spillere under 21 år?
 date: '2021-02-06'
 readtime: true
-thumbnail-img: /img/league_average_age_europe.png
+cover-img: /img/league_average_age_europe.png
 ---
 ## Introduktion
 
