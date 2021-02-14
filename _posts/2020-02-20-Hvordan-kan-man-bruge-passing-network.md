@@ -7,17 +7,31 @@ subtitle: >-
 date: '2021-02-06'
 readtime: true
 ---
-## Introduktion
 
-### AaB
+Fodbold er en meget kompleks sport, ligesom netwærk i den virkelige verden. Derfor kan man forklare fodbold gennem netwærk teori.
+
+Der er mange termer som er på engelsk, men jeg bestræber mig på at forklare med gennem så meget dansk som muligt.
+
+### Design forklaring
+
+- Noderne har størrelse
+- Fjerne unødvendige links (network backboning hård threshold, noice corrected, high salience skeleton).
+- Centralitet
+- 
 
 ![alt text](/img/aab_squad_age_profile.png)
 
-Aab's har en trup aldersfordeling der minder meget om både Randers og OB med mange spillere i og efter deres bedste fodboldalder, som udgør deres største andel af spilleminutterne for sæsonen. Men hos AaB ser man dog flere unge spillere på vej frem, som også får en god andel spilleminutter. 
+### Link vægt
 
-### Hvordan sammenligner Superligaen og 1. division med resten af foldboldeuropa?
+- Expected threat
+- Lange afleveringer
+- 
 
-![alt text](/img/league_average_age_europe.png)
+### Forskellige spil faser
+
+Disse netwærk er meget ustabile, hvilket betyder at der ikke skal en stor afvigelse til for at netwærk ændrer sig.e
+
+#### Opbygningsspillet
 
 
-![alt text](/img/team_average_age_europe.png)
+#### Afslutningsspillet
