@@ -9,7 +9,7 @@ readtime: true
 ---
 ## Introduktion
 
-Aldersprofilen sæsonenen 2020/2021 i den danske Superliga er ekstrem interessant. FC Nordsjælland med en gennemsnitsalder på 20 år og 292 dage har de den yngste trup i **hele Europa**. Samtidig skal et alderende FC København mandskab måske snart tænke på det generationsskifte, mens både AGF og FC Midtjylland har en god blanding af spillere i deres bedste  fodboldalder og ligeledes med unge spillere på vej op.
+Aldersprofilen sæsonen 2020/2021 i den danske Superliga er ekstrem interessant. FC Nordsjælland med en gennemsnitsalder på 20 år og 292 dage har de den yngste trup i **hele Europa**. Samtidig skal et alderende FC København mandskab måske snart tænke på det generationsskifte, mens både AGF og FC Midtjylland har en god blanding af spillere i deres bedste  fodboldalder og ligeledes med unge spillere på vej op.
 
 I denne blog post vil jeg først se på de brede tendenser i de dansk fodbold og så gennemgå de danske Superliga trupper og knytte et par kommentarer til hver trup.
 
@@ -23,7 +23,7 @@ Hvis vi tager et kig på klubberne, så ser vi hele 4 danske hold i blandt de 10
 
 ![alt text](/img/team_average_age_europe.png)
 
-Vi vil nu kigge på alderfordelingen sammenlignet med andel af spilminutter for hvert Superliga hold, og jeg vil knytte et par korte kommentarer med eventuelle bekymringer eller begejstring til holdenes aldersprofil.
+Vi vil nu kigge på aldersfordelingen sammenlignet med andel af spilminutter for hvert Superliga hold, og jeg vil knytte et par korte kommentarer med eventuelle bekymringer eller begejstring til holdenes aldersprofil.
 
 #### AC Horsens
 
@@ -101,7 +101,7 @@ Aab's har en trup aldersfordeling der minder meget om både Randers og OB med ma
 
 #### Aflstuttende bemærkning
 
-Vi kan altså se at dansk fodbold generelt har en meget und profil, hvor flere hold gør brug af unge spillere der samtidig har en relativ høj andel af holdets spilleminutter. Dette er en tendens som på flere måder kan ses med positive øjne. 
+Vi kan altså se at dansk fodbold generelt har en meget ung profil, hvor flere hold gør brug af unge spillere der samtidig har en relativ høj andel af holdets spilleminutter. Dette er en tendens som på flere måder kan ses med positive øjne. 
 
 Det fremmer både de unge danske spilleres udvikling, og samtidig giver det incitiament for store unge talenter til at vælge Superligaen frem for større destinationer i Europa. Her vil spilletiden være mere sparsom, mens de i Superligaen kan se at de får chancen. Det har vi bl.a. for nyligt set med Andreas Schjelderup, som valgte FC Nordsjælland fremfor flere større destinationer i Europa. Samtidig ser vi at de hold som ligger i toppen af ligaen har en større diversitet i deres trup med flere ældre erfarne spillere.
 
