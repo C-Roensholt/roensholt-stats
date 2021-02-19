@@ -50,12 +50,13 @@ Man kan f.eks. bruge xG til at evaluere en spillers skud egenskaber. Ved at summ
 \
 Et eksempel på dette er illustreret nedenfor hvor alle Mohamed Salah's og Roberto Firmino's skud er vist.
 
-![Alt Text](/img/advanced_metrics/Mohamed-Salah_shotMap_1.png)
-![Alt Text](/img/advanced_metrics/Roberto-Firmino_shotMap_1.png)
+
+| ![Alt Text](/img/advanced_metrics/MohamedSalah_shotMap_1.png) | ![Alt Text](/img/advanced_metrics/RobertoFirmino_shotMap_1.png) |
+--------------:|:--------------
 
 Her kan man se hvordan Salah har scoret flere mål en det var forventet, mens at Firmino ikke har formået at konvertere hans store skud muligheder til mål.
-![Alt Text](/img/advanced_metrics/Roberto Firmino_shotMap_1.png)
-![Alt Text](/img/advanced_metrics/Mohamed Salah_shotMap_1)
+
+
 
 \
 Dette tydeliggør også en af ulemperne ved xG, fordi xG tager nemlig ikke hensyn til hvilken spiller der tager skuddet. Man har set at Messi igennem flere sæsoner har [overpræsteret hans xG](https://www.infogol.net/en/blog/analysis/hit-or-miss-the-most-clinical-finishers-in-europe-142020), simpelthen fordi at han er en så meget bedre afslutter en den gennemsnitlige spiller.
@@ -64,7 +65,8 @@ Dette tydeliggør også en af ulemperne ved xG, fordi xG tager nemlig ikke hensy
 En angriber der kommer i gode skud situationer, men ikke får konverterede disse chancer til mål vil have en høj xG. Denne underpræstation på xG I løbet af en hel sæson kan man forvente at angriberen vil  
 Hvis vi kigger på Mohamed Salah
 
-Det samme koncept gør sig gældende hvis vi kigger på et holds xG, hvor man kan kigge på forskellen mellem xG for og imod holdet. Ved at kigge xG forskellen for holdet kan man 
+Man kan yderligere bruge xG til at indikere hvordan et hold egentlig burde præstere. Her kigger man på forskellen mellem xG for og imod holdet. En positiv xG forskel indikerer et hold som laver flere chancer end 
+, hvor man kan kigge på forskellen mellem xG for og imod holdet. Ved at kigge xG forskellen for holdet kan man 
 
 \
 Det er dog vigtigt at forstå at xG ikke er en ultimativ beregning af om en holds sejr var fortjent eller ufortjent.
