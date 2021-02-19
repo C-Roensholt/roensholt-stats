@@ -1,6 +1,6 @@
 ---
 layout: post
-published: True
+published: false
 title: Forklaring af avancerede fodbold statistikker
 subtitle: >-
   Hvordan kan man bruge passing networks til at analyse en fodboldkamp?
@@ -26,17 +26,20 @@ Vi tager nu et kig på xG's lillesøster, Expected Assist (xA).
 <br>
 Assist er den sidste aflevering som fører til et mål, hvilket betyder at spilleren er afhængig af at angriberen kan konvertere afleveringen mål. Assist er derfor ikke en god indikator af en spillers egenskab til at skabe chancer, da 
 
-
-<img style="float: right;" src="/img/sterling_miss.gif">
+![Alt Text](/img/sterling_miss.gif)
 *Sterling brænder en stor chance og Kyle Walker får ikke assisten*
 
  xA kan blive målt på to forskellige måder nemlig 
 
 Mané assist | Sergio Busquets assist
-:----------:|:-------------------:
+----------:|:-------------------:
 ![Alt Text](/img/mane_assist.gif) | ![Alt Text](https://i.imgur.com/BzyPDZX.gif)
 
 ## Expected Points (xP)
+
+## Bold progression
+
+Fremadrettede afleveringer og 
 
 ## Expected Threat (xT)
 
