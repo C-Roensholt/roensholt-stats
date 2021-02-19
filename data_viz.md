@@ -1,14 +1,16 @@
 ---
 layout: page
-title: Contact
+title: Data Visualiseringer
 subtitle: 
 ---
 
-Her kan du se alle mine data visualiseringer.
+Her er alle data visualiseringer.
 \
-Jeg har brugt Python og Matplotlib til alle mine visualationer.
+Jeg har brugt Python og Matplotlib til alle mine visualiseringer.
 
 ### Superligaen stilling uge for uge
+
+![Alt Text](/img/viz_page/superliga_2021_gw_by_gw.png)
 
 ### Superligaen trup profiler
 
@@ -36,5 +38,10 @@ Jeg har brugt Python og Matplotlib til alle mine visualationer.
 
 ### xG Flow Chart
 
+**Timeseries af xG forløbet af en kamp**
+![Alt Text](/img/viz_page/gw24_liv_xG_flow.png)
 
 ### Passing Networks
+
+**Passing Network som viser afleveringsmønstret for et hold i en kamp**
+![Alt Text](/img/viz_page/gw20_liv_passing_network.png)
