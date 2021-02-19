@@ -27,8 +27,8 @@ Vi tager nu et kig på xG's lillesøster, Expected Assist (xA).
 Assist er den sidste aflevering som fører til et mål, hvilket betyder at spilleren er afhængig af at angriberen kan konvertere afleveringen mål. Assist er derfor ikke en god indikator af en spillers egenskab til at skabe chancer, da 
 
 
-![Alt Text](/img/sterling_miss.gif)
-*Sterling brænder en stor chance og Kyle Walker får ikke en assist*
+<img style="float: right;" src="/img/sterling_miss.gif">
+*Sterling brænder en stor chance og Kyle Walker får ikke assisten*
 
  xA kan blive målt på to forskellige måder nemlig 
 
