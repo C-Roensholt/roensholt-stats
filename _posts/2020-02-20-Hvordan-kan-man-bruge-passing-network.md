@@ -19,7 +19,7 @@ Der er mange termer som er på engelsk, men jeg bestræber mig på at forklare m
 - Centralitet
 - 
 
-![alt text](/img/aab_squad_age_profile.png)
+![Alt Text](/img/aab_squad_age_profile.png)
 
 ### Link vægt
 
