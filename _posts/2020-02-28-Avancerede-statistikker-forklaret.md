@@ -65,44 +65,65 @@ Ligesom med spillerne kan man sammenligne et holds egentlige målforskel med xG 
 
 Det er dog vigtigt at forstå at xG ikke er en ultimativ beregning af om en holds sejr i en specifik kamp var fortjent eller ufortjent. Der er mange faktorer gældende i en enkelt fodboldkamp (held, antal spillere på banen, stillingen af kampen, tid tilbage), så xG skal i højere grad bruges til at måle et holds eller spillers præstation over en række kampe. David Sumpter, som er Professor of Applied Mathematics, har skrevet bogen [Soccermatics](https://www.saxo.com/dk/soccermatics_paperback_9781472924148) og arbejder i den svenske klub Hammerby, har skrevet [dette indlæg](https://soccermatics.medium.com/should-you-write-about-real-goals-or-expected-goals-a-guide-for-journalists-2cf0c7ec6bb6), hvor denne pointe bliver forklaret.
 
+## Expected Points
+
+Man kan yderligere konvertere xG for og imod et hold til expected points (xP). Dette gøres ved at simulere kampen 1000 gange, og se hvilket hold der vinder den største andel af disse simulationer, baseret på de chancer, xG, holdene har skabt.
+
+Man gør det ved at vurdere hver enkel skud som et møntkast, som er vægtet afhængig af hvor stor xG chancen er tildelt. Et skud med xG på 0.5 vil være en regulær mønt, som lander krone halvdelen af tiden. Hvorimod det tidligere eksempel på et straffespark med en xG på 0.76 vil lande på krone cirka tre ud af fire gange. Hvis man nu forestiller sig at hvis mønten lander på krone så scorer holdet. Ved at lave et møntkast for hvert skud i kampen, vægtet af skuddets xG værdi, kan man dermed simulere hvor mange mål hvert hold i gennemsnit vil have scoret i kampen.
+\
+Hvis vi tager 0-2 kampen mellem Atletico Madrid og Levante nedenfor. I den kamp skabte Levante skud med xG værdier på 0.4, 0.04, 0.04, 0.13, 0.08 og 0.07, hvilket samlet giver Levante en xG værdi på 0.77 xG. I gennemsnit vil vi dermed ikke forvente at Levante rammer krone, og dermed mål, særligt ofte. På den anden side skabte Atl. Madrid en samlet 2.09 xG for alle deres skud.
+\
+Kampen bliver spillet og Atl. Madrid og Levante laver et møntkast for hvert af deres skud i kampen, og vinderen af kampen er det hold hvor krone kom op flest gange. Ved at simulere denne "møntkast konkurrence" flere tusinde kan man finde den andel af "møntkast konkurrencer" som hvert hold vinder, og bestemme det hold der har fortjent at vinde kampen baseret på de chancer holdet skabte og deres evne til at holde modstanderen fra chancer.
+
+![Alt Text](/img/advanced_metrics/atl_madrid_levante_xg_flow.png)
+*En lige kamp mellem Liverpool og Leicester, som hvis simuleret 1000 gange ville resultere i en uafgjort eller mere lige resultat*
+
+
+
 ## Expected Assist
 
 https://www.youtube.com/watch?v=H4kNa1cUvZM
 
 Vi tager nu et kig på xG's lillesøster, Expected Assist (xA).
 \
-Assist er den sidste aflevering som fører til et mål, hvilket betyder at spilleren er afhængig af at angriberen kan konvertere afleveringen mål. Assist er derfor ikke en god indikator af en spillers egenskab til at skabe chancer, da 
-
+En assist er den sidste aflevering som fører til et mål. Det betyder at spilleren som spiller afleveringen er afhængig af at angriberen kan konvertere afleveringen til mål. Assist er derfor ikke en endegyldig god indikator af en spillers egenskab til at sætte sine medspillere op til chancer, da assist er direkte afhængig af medspillernes evner til at afslutte.
+\
+En spiller kan i løbet af en kamp lave flere gode offensive afleveringer, man ingen af dem resultere i mål. Mens en anden spiller laver en får en assist for at lave en aflevering til en spiller som scorer på en meget usandsynlig chance.
+\
 ![Alt Text](/img/advanced_metrics/sterling_miss.gif)
 *Sterling brænder en stor chance og Kyle Walker får ikke assisten*
 
- xA kan blive målt på to forskellige måder nemlig 
+Det kan Expected Assist (xA) være med til at adressere. xA kan blive beregnet på to måder, den første, mest simple og naive metode er at den xG værdi som tilfalder et skud bliver til xA for spilleren med afleveringen til skuddet. Hvis Sterlings skud ovenfor havde en xG værdi på 0.85 vil det svare til at Kyle Walker vil få 0.85 xA for afleveringen. Men hvad nu hvis Sterling havde misset bolden og ikke lavet en afslutningen? Kyle Walkers gode aflevering ville få en xA værdi på 0, hvilket ikke føles rigtigt.
+\
+Derfor findes der en mere sofistikeret xA model der beregner sandsynligheden for at hver afleveringen vil resultere i en assist. Denne model kigger, ligesom xG modellen, på faktorer omkring afleveringen, f.eks. afleverings lokation, modspillere aflevering passerer, osv. Dvs. altså sige at alle afleveringer som bliver lavet i en kamp har en xA værdi associeret med sig. Det betyder at Sergio Busquets assist nedenfor ikke vil have en høj xA værdi, da hans aflevering ikke har en stor chance for at resultere i et mål. På den anden side vil Mané's aflevering, som skærer forsvaret åbent, have en høj xA værdi. Shaqiri kommer i en position hvor han vil have en stor chance for at score, og afleveringen har derfor en høj xA værdi associeret ved sig. Hvis Shaqiri havde afleveret bolden på tværs til Salah, som så havde scoret, ville Mané stadigvæk ifølge denne model få tildelt samme xA værdi. Hvilket ikke ville have været tilfældet i den simple og naive xA model.
 
 Mané assist  | Sergio Busquets assist
 :-----------:|:-------------------:
 ![Alt Text](/img/advanced_metrics/mane_assist.gif) | ![Alt Text](https://i.imgur.com/BzyPDZX.gif)
 
+xA kan visualiseres og bruges til analyse hvor et hold eller spiller skaber sine målfarlige chancer fra, hvilket Benoit Pimpaud har gjort i [denne gode artikel](https://medium.com/nightingale/beyond-the-goal-visualizing-expected-assists-in-soccer-28df81dafe09).
+
+## Expected Threat
+
+(Hvis Özil co-assist)
 
 
 
+## Chance skabelse
 
+#### Målscorende aktioner
 
-## Expected Points
-(Hvis en Expected Point tabel)
+GCA
 
-Ovenfor kiggede vi på xG for og imod et hold
+#### Skud assisterence aktioner
 
-## Målscorende aktioner
-
-## Skud assist aktioner
+SCA
 
 ## Bold progression
 
 Fremadrettede afleveringer og 
 
-## Expected Threat
 
-(Hvis Özil co-assist)
 
 
 
