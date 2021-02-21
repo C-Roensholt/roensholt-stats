@@ -15,12 +15,12 @@ Jeg vil derfor give et overblik over de forskellige "avancerede" statistikker so
 # Indhold
 
 1. [Expected Goals (xG)](##Expected-Goals)
-2. [Expected Assist (xA)](##Expected-Assist)
-3. [Expected Points (xP)](##Expected-Points)
-4. [Målscorende aktioner (GCA)](##Målscorende-aktioner)
-5. [Skud assist aktioner (SCA)](##Skud-assist-aktioner)
-6. [Bold progression](##Bold-progression)
-7. [Expected Threat (xT)](##Expected-Threat)
+2. [Expected Points (xP)](##Expected-Points)2. 
+3. [Expected Assist (xA)](##Expected-Assist)
+4. [Expected Threat (xT)](##Expected-Threat)
+5. [Chance skabende aktioner](##Chance-skabende-aktioner-(SCA-&-GCA))
+6. [Skud assist aktioner (SCA)](##Skud-assist-aktioner)
+7. [Bold progression](##Bold-progression) 
 8. [PPDA](##PPDA)
 9. [Possession adjusted tacklinger og erobringer](##Possession-adjusted-tacklinger-og-erobringer)
 10. [Revideret tackle procent](##True-Tackle-procent)
@@ -67,9 +67,9 @@ Det er dog vigtigt at forstå at xG ikke er en ultimativ beregning af om en hold
 
 ## Expected Points
 
-Man kan yderligere konvertere xG for og imod et hold til expected points (xP). Dette gøres ved at simulere kampen 1000 gange, og se hvilket hold der vinder den største andel af disse simulationer, baseret på de chancer, xG, holdene har skabt.
+Man kan yderligere konvertere xG for og imod et hold til expected points (xP). Dette gøres ved at simulere kampen flere tusinde gange, og se hvilket hold der vinder den største andel af disse simulationer, baseret på de chancer (xG) holdene har skabt. Denne metode har vundet indpas i dansk fodbold gennem FC Midtjylland og deres "Table of Justice".
 
-Man gør det ved at vurdere hver enkel skud som et møntkast, som er vægtet afhængig af hvor stor xG chancen er tildelt. Et skud med xG på 0.5 vil være en regulær mønt, som lander krone halvdelen af tiden. Hvorimod det tidligere eksempel på et straffespark med en xG på 0.76 vil lande på krone cirka tre ud af fire gange. Hvis man nu forestiller sig at hvis mønten lander på krone så scorer holdet. Ved at lave et møntkast for hvert skud i kampen, vægtet af skuddets xG værdi, kan man dermed simulere hvor mange mål hvert hold i gennemsnit vil have scoret i kampen.
+"Table of justice" kan udregnes ved at tage hver enkel kamp og vurdere hver enkelt skud som et møntkast. Skuddet er vægtet afhængig af hvor stor xG chancen er tildelt, og et skud med xG på 0.5 vil være en regulær mønt, som lander krone halvdelen af tiden. Hvorimod det tidligere eksempel på et straffespark med en xG på 0.76, vil lande på krone cirka tre ud af fire gange. Hvis man nu forestiller sig at hvis mønten lander på krone så scorer holdet. Ved at lave et møntkast for hvert skud i kampen, vægtet af skuddets xG værdi, kan man dermed simulere hvor mange mål hvert hold i gennemsnit vil have scoret i kampen.
 \
 Hvis vi tager 0-2 kampen mellem Atletico Madrid og Levante nedenfor, som er illusteret ved et xG race chart som stiger efter hvert skud afhængigt af skuddets xG værdi. I den kamp skabte Levante skud med xG værdier på 0.4, 0.04, 0.04, 0.13, 0.08 og 0.07, hvilket samlet giver Levante en xG værdi på 0.77 xG. I gennemsnit vil vi dermed ikke forvente at Levante rammer krone, og dermed mål, særligt ofte. På den anden side skabte Atl. Madrid en samlet 2.09 xG for alle deres skud.
 \
@@ -109,17 +109,11 @@ xA kan visualiseres og bruges til analyse hvor et hold eller spiller skaber sine
 
 (Hvis Özil co-assist)
 
+## Chance skabende aktioner (SCA & GCA)
 
-
-## Chance skabelse
-
-#### Målscorende aktioner
-
-GCA
-
-#### Skud assisterence aktioner
-
-SCA
+Der er flere forskellige avancerede modeller, f.eks. xT og xA, til at kvantificere spillernes evner til at skabe målscorende chancer. En mere simpel metode er at kigge på aktioner som fører til mål assisterende - og skud assisterende aktioner.
+\
+Denne metode tager et skridt tilbage fra xT og xA, og vurderer de to offensive aktioner som leder til hendholdsvis et skud eller mål.
 
 ## Bold progression
 
