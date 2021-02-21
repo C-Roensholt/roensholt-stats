@@ -71,18 +71,20 @@ Man kan yderligere konvertere xG for og imod et hold til expected points (xP). D
 
 Man gør det ved at vurdere hver enkel skud som et møntkast, som er vægtet afhængig af hvor stor xG chancen er tildelt. Et skud med xG på 0.5 vil være en regulær mønt, som lander krone halvdelen af tiden. Hvorimod det tidligere eksempel på et straffespark med en xG på 0.76 vil lande på krone cirka tre ud af fire gange. Hvis man nu forestiller sig at hvis mønten lander på krone så scorer holdet. Ved at lave et møntkast for hvert skud i kampen, vægtet af skuddets xG værdi, kan man dermed simulere hvor mange mål hvert hold i gennemsnit vil have scoret i kampen.
 \
-Hvis vi tager 0-2 kampen mellem Atletico Madrid og Levante nedenfor. I den kamp skabte Levante skud med xG værdier på 0.4, 0.04, 0.04, 0.13, 0.08 og 0.07, hvilket samlet giver Levante en xG værdi på 0.77 xG. I gennemsnit vil vi dermed ikke forvente at Levante rammer krone, og dermed mål, særligt ofte. På den anden side skabte Atl. Madrid en samlet 2.09 xG for alle deres skud.
+Hvis vi tager 0-2 kampen mellem Atletico Madrid og Levante nedenfor, som er illusteret ved et xG race chart som stiger efter hvert skud afhængigt af skuddets xG værdi. I den kamp skabte Levante skud med xG værdier på 0.4, 0.04, 0.04, 0.13, 0.08 og 0.07, hvilket samlet giver Levante en xG værdi på 0.77 xG. I gennemsnit vil vi dermed ikke forvente at Levante rammer krone, og dermed mål, særligt ofte. På den anden side skabte Atl. Madrid en samlet 2.09 xG for alle deres skud.
 \
 Kampen bliver spillet og Atl. Madrid og Levante laver et møntkast for hvert af deres skud i kampen, og vinderen af kampen er det hold hvor krone kom op flest gange. Ved at simulere denne "møntkast konkurrence" flere tusinde kan man finde den andel af "møntkast konkurrencer" som hvert hold vinder, og bestemme det hold der har fortjent at vinde kampen baseret på de chancer holdet skabte og deres evne til at holde modstanderen fra chancer.
 
 ![Alt Text](/img/advanced_metrics/atl_madrid_levante_xg_flow.png)
 *En lige kamp mellem Liverpool og Leicester, som hvis simuleret 1000 gange ville resultere i en uafgjort eller mere lige resultat*
 
+Race chartet mellem Atletico Madrid og Levante viser også at denne metode for at udregne sandsynligheden for at et hold vinder ikke tager hensyn til kampens stilling.
+\
+Levante skaber nærmest ingen xG efter deres første mål, da de ikke har nogen grund til at satse på offensive aktioner. Derimod står de længere tilbage på banen og tillader Atletico Madrid flere skud og dermed en højere xG for kampen. Hvis Levante ikke havde fået det tidlige mål kunne kampen have set anderledes ud.
 
+Expected points kan altså se udover aktuelle point, scorede og indkasserede mål, og vurdere et holds evner til at skabe chancer der kan føre til mål, og holdets evne til at holde modstanderen fra chancer. Men som nævnt ovenfor er xP ikke en endegyldig måleenhed for holdendes præstation, da xP, ligesom aktuelle point, er influeret af flere faktorer.
 
 ## Expected Assist
-
-https://www.youtube.com/watch?v=H4kNa1cUvZM
 
 Vi tager nu et kig på xG's lillesøster, Expected Assist (xA).
 \
