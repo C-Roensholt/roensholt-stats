@@ -3,7 +3,7 @@ layout: post
 published: true
 title: Den komplette guide til fodboldstatistikker
 subtitle: >-
-Statisitkker i i fodbold er eksploderet i de seneste år og det er svært at holde styr på dem alle sammen. I dette indlæg vil jeg give et overblik over de avancerede statistikker som bliver brugt i fodbold.
+Statisitkker i fodbold er eksploderet i de seneste år og det er svært at holde styr på dem alle sammen. I dette indlæg vil jeg give et overblik over de avancerede statistikker som bliver brugt i fodbold.
 date: '2021-02-22'
 readtime: true
 ---
