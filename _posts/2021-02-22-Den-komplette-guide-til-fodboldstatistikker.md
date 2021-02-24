@@ -3,7 +3,7 @@ layout: post
 published: true
 title: Den komplette guide til fodboldstatistikker
 subtitle: >-
-Statisitkker i fodbold er eksploderet i de seneste år og det er svært at holde styr på dem alle sammen. I dette indlæg vil jeg give et overblik over de avancerede statistikker som bliver brugt i fodbold.
+    Statistikker i fodbold er eksploderet i de seneste år og det er svært at holde styr på dem alle sammen. I dette indlæg vil jeg give et overblik over de avancerede statistikker som bliver brugt i fodbold.
 date: '2021-02-22'
 readtime: true
 ---
@@ -15,12 +15,12 @@ Jeg vil derfor give et overblik over de forskellige "avancerede" statistikker so
 # Indhold
 
 1. [Expected Goals (xG)](##Expected-Goals)
-2. [Expected Points (xP)](##Expected-Points)2. 
+2. [Expected Points (xP)](##Expected-Points)
 3. [Expected Assist (xA)](##Expected-Assist)
 4. [Expected Threat (xT)](##Expected-Threat)
 5. [Chance skabende aktioner](##Chance-skabende-aktioner-(SCA-&-GCA))
 6. [Skud assist aktioner (SCA)](##Skud-assist-aktioner)
-7. [Bold progression](##Bold-progression) 
+7. [Bold progression](##Bold-progression)
 8. [PPDA](##PPDA)
 9. [Possession adjusted tacklinger og erobringer](##Possession-adjusted-tacklinger-og-erobringer)
 10. [Revideret tackle procent](##True-Tackle-procent)
@@ -48,7 +48,9 @@ Man kan bruge xG til at evaluere en spillers skud egenskaber. Ved at summere all
 \
 Et eksempel på dette er illustreret nedenfor hvor jeg har illustreret Danny Ings og Roberto Firmino's skud i Premier League sæsonen 2019/2020.
 
-:![Alt Text](/img/advanced_metrics/Ings_shotMap_1.png) :|: ![Alt Text](/img/advanced_metrics/RobertoFirmino_shotMap_1.png):
+Danny Ings   | Roberto Firmino
+:-----------:|:-------------------:
+![Alt Text](/img/advanced_metrics/Ings_shotMap_1.png) | ![Alt Text](/img/advanced_metrics/RobertoFirmino_shotMap_1.png)
 
 Her kan man se hvordan Ings har scoret flere mål end det forventede, mens at Firmino ikke har formået at konvertere hans store chancer til mål. Det kan indikere at Ings har bedre afslutningsevner og/eller bedre held med hans afslutninger end Firmino, som har misset mange skud med høj xG værdi.
 
