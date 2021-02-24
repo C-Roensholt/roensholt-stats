@@ -50,7 +50,7 @@ Et eksempel på dette er illustreret nedenfor hvor jeg har illustreret Danny Ing
 
 Danny Ings   | Roberto Firmino
 :-----------:|:-------------------:
-![Alt Text](/img/advanced_metrics/Ings_shotMap_1.png) | ![Alt Text](/img/advanced_metrics/RobertoFirmino_shotMap_1.png)
+![Alt Text](/img/advanced_metrics/Ings_shotMap_1.png) | ![Alt Text](/img/advanced_metrics/Firmino_shotMap_1.png)
 
 Her kan man se hvordan Ings har scoret flere mål end det forventede, mens at Firmino ikke har formået at konvertere hans store chancer til mål. Det kan indikere at Ings har bedre afslutningsevner og/eller bedre held med hans afslutninger end Firmino, som har misset mange skud med høj xG værdi.
 
