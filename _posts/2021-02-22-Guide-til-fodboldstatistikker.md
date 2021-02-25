@@ -1,7 +1,7 @@
 ---
 layout: post
 published: true
-title: Den komplette guide til fodboldstatistikker
+title: Guide til fodboldstatistikker
 subtitle: >-
     Statistikker i fodbold er eksploderet i de seneste år og det er svært at holde styr på dem alle sammen. I dette indlæg vil jeg give et overblik over de avancerede statistikker som bliver brugt i fodbold.
 date: '2021-02-22'
@@ -10,7 +10,9 @@ readtime: true
 
 Fodbold er i de seneste år blevet en 
 
-Jeg vil derfor give et overblik over de forskellige "avancerede" statistikker som er kommet til fodboldverdenen de seneste år. Yderligere vil jeg give kontekst til de forskellige statistikker og hvordan de kan bruges til at analysere og måle præstation for en spiller eller et hold.
+Jeg vil derfor give et overblik over de forskellige "avancerede" statistikker som er kommet til fodboldverdenen de seneste år. Yderligere vil jeg give kontekst til de forskellige statistikker og hvordan de kan bruges til at analysere spillere eller hold.
+
+_Det er vigtigt at pointere at disse mere avancerede og nytilkommende statistikker betyder at de mere brugte statistikker, som skud på mål, antal afleveringer, ikke er brugbare mere, og de nye statistikker giver den endegyldige analyse af spillerens eller holdets præstation. De er udelukkende et forsøg på at forbedre og give et mere komplet billede i fortællingen om spilleren, holdet eller kampen._
 
 # Indhold
 
@@ -48,8 +50,9 @@ Man kan bruge xG til at evaluere en spillers skud egenskaber. Ved at summere all
 \
 Et eksempel på dette er illustreret nedenfor hvor jeg har illustreret Danny Ings og Roberto Firmino's skud i Premier League sæsonen 2019/2020.
 
-![Alt Text](/img/advanced_metrics/Ings_shotMap_1.png)  | ![Alt Text](/img/advanced_metrics/Firmino_shotMap_1.png)
+Danny Ings   | Roberto Firmino
 :-----------:|:-------------------:
+![Alt Text](/img/advanced_metrics/Ings_shotMap_1.png) | ![Alt Text](/img/advanced_metrics/Firmino_shotMap_1.png)
 
 Her kan man se hvordan Ings har scoret flere mål end det forventede, mens at Firmino ikke har formået at konvertere hans store chancer til mål. Det kan indikere at Ings har bedre afslutningsevner og/eller bedre held med hans afslutninger end Firmino, som har misset mange skud med høj xG værdi.
 
@@ -57,6 +60,9 @@ I denne forbindelse er det vigtigt at pointere at xG ikke tager hensyn til hvilk
 
 ![Alt Text](/img/advanced_metrics/Messi_shotMap_4.png)
 _I de seneste 4 sæsoner har Messi scoret flere mål end hans xG_
+
+Mange mener at dette skal kunne inkluderes i en xG model, men det, ifølge mig, er ikke meningen med xG. xG estimere ud fra tusindvis datapunkter sandsynligheden for at _enhver_ spiller vil score fra den givne position i de givne omstændigheder. Hvis en spiller, som f.eks. Messi, er en ekstraordinær afslutter og overpræsterer xG er det helt fint, da det fortæller os noget spillerens evner og ikke manglerne af vores model. Spillernes og holdenes evner er i sidste evne det vi vil blive klogere på.
+
 
 Yderligere kan xG bruges til at indikere hvordan et hold egentlig burde præstere. Her kigger man på forskellen mellem xG for og imod holdet (xG - xG imod). En positiv xG forskel indikerer et hold som laver flere målscorende chancer end sine modstandere, mens en negativ xG forskel indikere et hold som skaber færre målscorende chancer.
 Ligesom med spillerne kan man sammenligne et holds egentlige målforskel med xG forskellen. Det kan så fortælle om holdet har haft uheld i deres afslutninger og/eller har afslutningsevner under det gennemsnitlige.
@@ -104,7 +110,7 @@ Mané assist  | Sergio Busquets assist
 :-----------:|:-------------------:
 ![Alt Text](/img/advanced_metrics/mane_assist.gif) | ![Alt Text](https://i.imgur.com/BzyPDZX.gif)
 
-xA kan visualiseres og bruges til analyse hvor et hold eller spiller skaber sine målfarlige chancer fra, hvilket Benoit Pimpaud har gjort i [denne gode artikel](https://medium.com/nightingale/beyond-the-goal-visualizing-expected-assists-in-soccer-28df81dafe09).
+xA kan visualiseres og bruges til analyse hvor et hold eller spiller skaber sine målfarlige chancer fra, hvilket Benoit Pimpaud har gjort i [denne artikel](https://medium.com/nightingale/beyond-the-goal-visualizing-expected-assists-in-soccer-28df81dafe09).
 
 ## Expected Threat
 
