@@ -12,6 +12,11 @@ Fodbold er i de seneste år blevet en
 
 Jeg vil derfor give et overblik over de forskellige "avancerede" statistikker som er kommet til fodboldverdenen de seneste år. Yderligere vil jeg give kontekst til de forskellige statistikker og hvordan de kan bruges til at analysere spillere eller hold.
 
+## Kontekstualisering af statistikker
+
+Det vigtigste med statistikker er at sætte dem i kontekst
+
+Jeg bestræber mig meget på det, men endelig "call me out" hvis jeg ikke efterfølger mine egne principper.
 _Det er vigtigt at pointere at disse mere avancerede og nytilkommende statistikker betyder at de mere brugte statistikker, som skud på mål, antal afleveringer, ikke er brugbare mere, og de nye statistikker giver den endegyldige analyse af spillerens eller holdets præstation. De er udelukkende et forsøg på at forbedre og give et mere komplet billede i fortællingen om spilleren, holdet eller kampen._
 
 # Indhold
@@ -19,14 +24,9 @@ _Det er vigtigt at pointere at disse mere avancerede og nytilkommende statistikk
 1. [Expected Goals (xG)](##Expected-Goals)
 2. [Expected Points (xP)](##Expected-Points)
 3. [Expected Assist (xA)](##Expected-Assist)
-4. [Expected Threat (xT)](##Expected-Threat)
-5. [Chance skabende aktioner](##Chance-skabende-aktioner-(SCA-&-GCA))
-6. [Skud assist aktioner (SCA)](##Skud-assist-aktioner)
-7. [Bold progression](##Bold-progression)
-8. [PPDA](##PPDA)
-9. [Possession adjusted tacklinger og erobringer](##Possession-adjusted-tacklinger-og-erobringer)
-10. [Revideret tackle procent](##True-Tackle-procent)
-11. [Field Tilt](##Field-Tilt)
+4. [PPDA](##PPDA)
+5. [Possession adjusted defensive aktioner](##Possession-adjusted-tacklinger-og-erobringer)
+6. [Field Tilt](##Field-Tilt)
 
 ## Expected Goals
 
@@ -112,43 +112,18 @@ Mané assist  | Sergio Busquets assist
 
 xA kan visualiseres og bruges til analyse hvor et hold eller spiller skaber sine målfarlige chancer fra, hvilket Benoit Pimpaud har gjort i [denne artikel](https://medium.com/nightingale/beyond-the-goal-visualizing-expected-assists-in-soccer-28df81dafe09).
 
-## Expected Threat
-
-(Hvis Özil co-assist)
-
-## Chance skabende aktioner (SCA & GCA)
-
-Der er flere forskellige avancerede modeller, f.eks. xT og xA, til at kvantificere spillernes evner til at skabe målscorende chancer. En mere simpel metode er at kigge på aktioner som fører til mål assisterende - og skud assisterende aktioner.
-\
-Denne metode tager et skridt tilbage fra xT og xA, og vurderer de to offensive aktioner som leder til hendholdsvis et skud eller mål.
-
-## Bold progression
-
-Fremadrettede afleveringer og 
-
-
-
-
-
-
 ## PPDA
 
 (Hvis tabel af PPDA med Leeds top)
-
 
 ## Possession adjusted tacklinger og erobringer
 
 (Hvis revised tabel)
 
-
-## True tackle procent
-
 ## Field Tilt
 
-## Kontekstualisering af statistikker
 
-Det vigtigste med statistikker er at sætte dem i kontekst
+_Dette indlæg vil løbende bliver opdateret med nye statistikker._
 
-Jeg bestræber mig meget på det, men endelig "call me out" hvis jeg ikke efterfølger mine egne principper.
-
+_Kommende opdateringer: **[Expected Threat (xT)](https://karun.in/blog/expected-threat.html)**, **[Possession Value (PV)](https://www.statsperform.com/resource/evolving-our-possession-value-framework/)**_
 
