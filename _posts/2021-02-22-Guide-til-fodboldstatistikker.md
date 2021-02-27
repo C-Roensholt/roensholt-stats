@@ -6,7 +6,6 @@ subtitle: >-
     Statistikker i fodbold er eksploderet i de seneste år og det er svært at holde styr på dem. I dette indlæg vil jeg give et overblik over de nye statistikker som bliver brugt i dag.
 date: '2021-02-22'
 readtime: true
-cover-img: /img/advanced_metrics/thumbnail.jpg
 ---
 
 Jeg vil give et overblik over de forskellige de nye, mere avancerede, statistikker som er kommet til fodboldverdenen i de seneste år. Yderligere vil jeg give kontekst til de forskellige statistikker og hvordan de kan bruges til at analysere spillere eller hold.
