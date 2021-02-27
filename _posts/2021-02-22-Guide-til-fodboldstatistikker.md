@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 title: Guide til fodboldstatistikker
 subtitle: >-
     Statistikker i fodbold er eksploderet i de seneste år og det er svært at holde styr på dem alle sammen. I dette indlæg vil jeg give et overblik over de avancerede statistikker som bliver brugt i fodbold.
@@ -114,20 +114,35 @@ xA kan visualiseres og bruges til analyse hvor et hold eller spiller skaber sine
 
 ## PPDA
 
-(Hvis tabel af PPDA med Leeds top)
+Presspillet er blevet en stor del af fodbold i de seneste år. PPDA (Passes Allowed Per Defensive Action) gør det muligt at måle et holds presintensiet, og dermed sammenligne intensiteten af presset mellem hold. Konceptet blev introduceret af Colin Trainor i [denne StatsBomb artikel](https://statsbomb.com/2014/07/defensive-metrics-measuring-the-intensity-of-a-high-press/)
 
+PPDA for et hold er defineret ved: PPDA = Antal af afleveringer af modstanderholdet / Antal af defensive aktioner.
+\
+De defensive aktioner inkluderer:
+- Tacklinger (både tabte og vundne)
+- Erobringer
+- Blokeringer
+- Begået frispark
 
+Både antallet af afleveringer og defensive aktioner bliver målt på modstandernes sidste 60% af banen. Det er en meget vigtig observation ved PPDA, som nogle gange ikke bliver kommunikeret ordentligt. Denne observation følger godt logikken, da presintensiteten vil stige eksponentielt når modstanderholdet kommer tættere på holdets mål.
+
+PPDA for Premier League holdene i 2020/2021 efter 24. spillerunde er illustreret nedenfor.
+\
+Marcelo Bielsa's Leeds er det helt suverænt mest aggressive hold i deres presspil, mens at Newcastle meget mere dybt i deres defensive organisation. Denne rangering følger godt intuitionen om hvilke hold der presser højt og hvilke hold der er mere defensive i deres organisation.
+
+![Alt Text](/img/advanced_metrics/ppda_table.png)
+
+Det er vigtigt at notere at PPDA kan måle intensiteten af et holds pres og gør det muligt at sammenligne og rangere hold. Men PPDA måler ikke hvor succesfulde holdene er i deres aktioner og er dermed ikke et mål for hvor godt et hold er defensivt, men mere en indikation på deres defensive profil. Leeds er f.eks. et offensivt pressende hold, men at Newcastle står med en lavere defensiv linje og ikke presser højt.
 
 ## Possession adjusted tacklinger og erobringer
 
 Et af flere problemer med defensive statistikker er at de hold som har bolden mere end deres modstandere vil have færre defensive aktioner som tacklinger og erobringer. Spillere på hold med lav boldbesiddelse, som f.eks. under Sam Allardyce, vil have flere muligheder for at lave tacklinger og erobringer end spillere under f.eks. Pep Guardiola. Spillere hold med lav boldbesiddelse ligger derfor øverst på defensive aktioner, men ved at justere for boldbesiddelse (possession adjusted, PAdj) kan man kreditere alle spillere, uanset hold, på samme præmis.
 
-
 Helt konkret så justeres defensive aktioner ved at starte med 50% boldbesiddelse som divideres med boldbesiddelsen for modstander holdet. Dette tal bliver så ganget med antallet af tacklinger eller erobringer som spilleren lavede. Så hvis et hold havde 60% boldbesiddelse og spilleren lavede 10 tacklinger, så vil spilleren have lavet (50/40 * 10 = 12.5) 12.5  PAdj tacklinger.
 \
 Dette er altså ikke længere det _"rigtige"_ antal tacklinger eller erobringer en spiller lavede i kampen. Men derimod, som [StatsBomb nævner i deres artikel](https://statsbomb.com/2014/06/introducing-possession-adjusted-player-stats/), kan man tænke dette tal som antal defensive point spilleren fik i løbet kampen. Ved at justere for boldbesiddelse kan man altså vurdere spillernes defensive output på lige vilkår. Lad os se på et eksempel fra Premier League 2019/2020 sæsonen.
 
-![Alt Text](/img/advanced_metrics/padj_tackles.png)
+![Alt Text](/img/advanced_metrics/padj_tackles_pl.png)
 
 Her er top 10 for tacklinger per 90 min. i Premier League sæsonen 2019/2020 både justeret for boldbesiddelse og ikke justeret.
 \
