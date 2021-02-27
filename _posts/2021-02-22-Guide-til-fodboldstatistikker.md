@@ -1,6 +1,6 @@
 ---
 layout: post
-published: true
+published: false
 title: Guide til fodboldstatistikker
 subtitle: >-
     Statistikker i fodbold er eksploderet i de seneste år og det er svært at holde styr på dem alle sammen. I dette indlæg vil jeg give et overblik over de avancerede statistikker som bliver brugt i fodbold.
@@ -116,9 +116,22 @@ xA kan visualiseres og bruges til analyse hvor et hold eller spiller skaber sine
 
 (Hvis tabel af PPDA med Leeds top)
 
+
+
 ## Possession adjusted tacklinger og erobringer
 
-(Hvis revised tabel)
+Et af flere problemer med defensive statistikker er at de hold som har bolden mere end deres modstandere vil have færre defensive aktioner som tacklinger og erobringer. Spillere på hold med lav boldbesiddelse, som f.eks. under Sam Allardyce, vil have flere muligheder for at lave tacklinger og erobringer end spillere under f.eks. Pep Guardiola. Spillere hold med lav boldbesiddelse ligger derfor øverst på defensive aktioner, men ved at justere for boldbesiddelse (possession adjusted, PAdj) kan man kreditere alle spillere, uanset hold, på samme præmis.
+
+
+Helt konkret så justeres defensive aktioner ved at starte med 50% boldbesiddelse som divideres med boldbesiddelsen for modstander holdet. Dette tal bliver så ganget med antallet af tacklinger eller erobringer som spilleren lavede. Så hvis et hold havde 60% boldbesiddelse og spilleren lavede 10 tacklinger, så vil spilleren have lavet (50/40 * 10 = 12.5) 12.5  PAdj tacklinger.
+\
+Dette er altså ikke længere det _"rigtige"_ antal tacklinger eller erobringer en spiller lavede i kampen. Men derimod, som [StatsBomb nævner i deres artikel](https://statsbomb.com/2014/06/introducing-possession-adjusted-player-stats/), kan man tænke dette tal som antal defensive point spilleren fik i løbet kampen. Ved at justere for boldbesiddelse kan man altså vurdere spillernes defensive output på lige vilkår. Lad os se på et eksempel fra Premier League 2019/2020 sæsonen.
+
+![Alt Text](/img/advanced_metrics/padj_tackles.png)
+
+Her er top 10 for tacklinger per 90 min. i Premier League sæsonen 2019/2020 både justeret for boldbesiddelse og ikke justeret.
+\
+Her kan man se spillere som João Cancelo og Fabinho, som spiller på hold med høj boldbesiddelse, bliver krediteret for deres defensive aktioner når man justerer for boldbesiddelsen.
 
 ## Field Tilt
 
