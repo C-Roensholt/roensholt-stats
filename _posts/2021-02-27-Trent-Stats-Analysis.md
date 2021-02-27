@@ -1,6 +1,6 @@
 ---
 layout: post
-published: true
+published: false
 title: Hvad fortæller tallene om Trent's nedgang?
 subtitle: >-
     Det har været synligt for alle at Trent Alexander-Arnold ikke er den samme spiller som sidste sæson. Jeg vil i dette indlæg se på hvad tallene fortæller om forskellen på hans spil i de to sæsoner.
