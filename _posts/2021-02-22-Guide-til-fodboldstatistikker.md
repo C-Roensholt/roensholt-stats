@@ -3,36 +3,35 @@ layout: post
 published: true
 title: Guide til fodboldstatistikker
 subtitle: >-
-    Statistikker i fodbold er eksploderet i de seneste år og det er svært at holde styr på dem alle sammen. I dette indlæg vil jeg give et overblik over de avancerede statistikker som bliver brugt i fodbold.
+    Statistikker i fodbold er eksploderet i de seneste år og det er svært at holde styr på dem. I dette indlæg vil jeg give et overblik over de nye statistikker som bliver brugt i dag.
 date: '2021-02-22'
 readtime: true
 ---
 
-Fodbold er i de seneste år blevet en 
-
-Jeg vil derfor give et overblik over de forskellige "avancerede" statistikker som er kommet til fodboldverdenen de seneste år. Yderligere vil jeg give kontekst til de forskellige statistikker og hvordan de kan bruges til at analysere spillere eller hold.
+Jeg vil give et overblik over de forskellige de nye, mere avancerede, statistikker som er kommet til fodboldverdenen i de seneste år. Yderligere vil jeg give kontekst til de forskellige statistikker og hvordan de kan bruges til at analysere spillere eller hold.
 
 ## Kontekstualisering af statistikker
 
-Det vigtigste med statistikker er at sætte dem i kontekst
+Det vigtigste med statistikker er at sætte dem i kontekst. _"Tallene lyver aldrig"_ er en velkendt formulering, hvilket er rigtigt. Men nogle gange fortæller de ikke den fulde sandhed.
+\
+Glenn Murray lavede f.eks. 14 mål i 27 kampe for Brighton i 2018, mens at Karim Benzema lavede 12 mål i 37 for Real Madrid. Dette fortæller os dog ikke hvem der er den bedste angriber af dem to. Der er mange faktorer som spiller ind på en angribers antal mål, minutter spillet, styrken af modstanderne, holdets taktik, osv. Det er derfor utrolig vigtigt at give det fulde billede når man udlægger statistikker og nogle gange er den bedste statistik øjnene som ser kampen.
 
-Jeg bestræber mig meget på det, men endelig "call me out" hvis jeg ikke efterfølger mine egne principper.
-_Det er vigtigt at pointere at disse mere avancerede og nytilkommende statistikker betyder at de mere brugte statistikker, som skud på mål, antal afleveringer, ikke er brugbare mere, og de nye statistikker giver den endegyldige analyse af spillerens eller holdets præstation. De er udelukkende et forsøg på at forbedre og give et mere komplet billede i fortællingen om spilleren, holdet eller kampen._
+_Det er vigtigt at pointere at introduktionen af de nye mere avancerede statistikker ikke betyder at de mere brugte statistikker, som f.eks. skud på mål, antal afleveringer, osv., ikke kan bruges længere. De nye statistikker giver ikke den endegyldige analyse af spillerens eller holdets præstation. De er udelukkende introducerede i et forsøg på at forbedre og give et mere komplet billede af fortællingen om spilleren, holdet eller kampen._
 
 # Indhold
 
-1. [Expected Goals (xG)](##Expected-Goals)
-2. [Expected Points (xP)](##Expected-Points)
-3. [Expected Assist (xA)](##Expected-Assist)
-4. [PPDA](##PPDA)
-5. [Possession adjusted defensive aktioner](##Possession-adjusted-tacklinger-og-erobringer)
-6. [Field Tilt](##Field-Tilt)
+1. Expected Goals (xG)
+2. Expected Points (xP)
+3. Expected Assist (xA)
+4. PPDA
+5. Possession adjusted defensive aktioner
+6. Field Tilt
 
-## Expected Goals
+## Expected Goals (xG)
 
-Vi starter med den statistik som har vundet størst indpas i den almene fodboldsnak, Expected Goals (xG).
+Expected Goals (xG) ses af mange som starten dataens indtog i fodbold efter at [Sam Green introducerede konceptet i en artikel i 2012](https://www.statsperform.com/resource/expected-goals-in-context/). Det er ligeledes den nymoderne fodboldstatistik som her vundet størst indpas i den almene fodboldsnak.
 
-I den simple form er xG sandsynligheden for at et givet skud bliver til et mål givet omstændighederne omkring skuddet. Faktorer som har indflydelse på omstændighederne er f.eks:
+I den simple form er xG sandsynligheden for at et skud bliver til et mål givet omstændighederne omkring skuddet. Faktorer som har indflydelse på omstændighederne er f.eks:
 
 - **Lokationen af skuddet:** Distance til målet og vinklen på skuddet.
 - **Modspillernes position:** Hvor mange forsvarsspillere var der mellem bolden og målet? Hvordan stod målmanden placeret?
@@ -93,23 +92,27 @@ Expected points kan altså se udover aktuelle point, scorede og indkasserede må
 
 ## Expected Assist
 
-Vi tager nu et kig på xG's lillesøster, Expected Assist (xA).
+Vi tager nu et kig på xG's lillesøster, [Expected Assist (xA).](https://www.statsperform.com/resource/expected-assists-in-context-2/)
 \
 En assist er den sidste aflevering som fører til et mål. Det betyder at spilleren som spiller afleveringen er afhængig af at angriberen kan konvertere afleveringen til mål. Assist er derfor ikke en endegyldig god indikator af en spillers egenskab til at sætte sine medspillere op til chancer, da assist er direkte afhængig af medspillernes evner til at afslutte.
 \
-En spiller kan i løbet af en kamp lave flere gode offensive afleveringer, man ingen af dem resultere i mål. Mens en anden spiller laver en får en assist for at lave en aflevering til en spiller som scorer på en meget usandsynlig chance.
-\
+En spiller kan i løbet af en kamp lave flere gode offensive afleveringer, hvor ingen af dem resulterer i mål. Mens en anden spiller får en assist ved at lave en aflevering til en medspiller som dribler fra midten, som f.eks. Messi eller Maradona.
+
+Det kan Expected Assist (xA) være med til at adressere. xA kan blive beregnet på to måder, den første, mest simple og naive metode, er at den xG værdi som tilfalder skuddet bliver til xA for spilleren med afleveringen til skuddet. F.eks. hvis Sterlings skud nedenfor havde en xG værdi på 0.85 vil det svare til at Kyle Walker vil få 0.85 xA for afleveringen. Men hvad nu hvis Sterling havde misset bolden og ikke lavet en afslutningen? Kyle Walkers gode aflevering ville dermed få en xA værdi på 0, som ikke virker rigtigt.
+
 ![Alt Text](/img/advanced_metrics/sterling_miss.gif)
 *Sterling brænder en stor chance og Kyle Walker får ikke assisten*
 
-Det kan Expected Assist (xA) være med til at adressere. xA kan blive beregnet på to måder, den første, mest simple og naive metode er at den xG værdi som tilfalder et skud bliver til xA for spilleren med afleveringen til skuddet. Hvis Sterlings skud ovenfor havde en xG værdi på 0.85 vil det svare til at Kyle Walker vil få 0.85 xA for afleveringen. Men hvad nu hvis Sterling havde misset bolden og ikke lavet en afslutningen? Kyle Walkers gode aflevering ville få en xA værdi på 0, hvilket ikke føles rigtigt.
+Derfor findes der en mere sofistikeret xA model. Denne model beregner sandsynligheden for at enhver aflevering vil resultere i en assist. I xA er, ligesom xG modellen, inkluderet omstændighederne omkring afleveringen, afleverings lokation, antal modspillere afleveringen passerer, osv. Alle afleveringer som bliver lavet i en kamp har dermed en xA værdi associeret med sig. Det betyder at Sergio Busquets assist nedenfor ikke vil have en høj xA værdi, da hans aflevering ikke har en stor chance for at resultere i et mål. På den anden side vil Mané's aflevering, som skærer forsvaret åbent, have en høj xA værdi. 
 \
-Derfor findes der en mere sofistikeret xA model der beregner sandsynligheden for at hver afleveringen vil resultere i en assist. Denne model kigger, ligesom xG modellen, på faktorer omkring afleveringen, f.eks. afleverings lokation, modspillere aflevering passerer, osv. Dvs. altså sige at alle afleveringer som bliver lavet i en kamp har en xA værdi associeret med sig. Det betyder at Sergio Busquets assist nedenfor ikke vil have en høj xA værdi, da hans aflevering ikke har en stor chance for at resultere i et mål. På den anden side vil Mané's aflevering, som skærer forsvaret åbent, have en høj xA værdi. Shaqiri kommer i en position hvor han vil have en stor chance for at score, og afleveringen har derfor en høj xA værdi associeret ved sig. Hvis Shaqiri havde afleveret bolden på tværs til Salah, som så havde scoret, ville Mané stadigvæk ifølge denne model få tildelt samme xA værdi. Hvilket ikke ville have været tilfældet i den simple og naive xA model.
+Shaqiri kommer i en position hvor han vil have en stor chance for at score, og afleveringen har derfor en høj xA værdi. Hvis Shaqiri havde afleveret bolden på tværs til Salah, som så havde scoret, ville Mané stadigvæk ifølge denne model få tildelt samme xA værdi. Det ville ikke være tilfældet i den simple og naive xA model.
 
 Mané assist  | Sergio Busquets assist
 :-----------:|:-------------------:
 ![Alt Text](/img/advanced_metrics/mane_assist.gif) | ![Alt Text](https://i.imgur.com/BzyPDZX.gif)
 
+xA kan dermed være med til at evaluere kreative spillere på et bedre grundlag, hvor de ikke er afhængige af deres medspilleres afslutningsevner. Det ses f.eks. ved at Rodrigo de Paul har akkumuleret 7,77 xA, hvilket er mest i Serie A efter 23. spillerrunde, men kun har lavet to assist, hvilket er uden for top 50 for assist i ligaen.
+\
 xA kan visualiseres og bruges til analyse hvor et hold eller spiller skaber sine målfarlige chancer fra, hvilket Benoit Pimpaud har gjort i [denne artikel](https://medium.com/nightingale/beyond-the-goal-visualizing-expected-assists-in-soccer-28df81dafe09).
 
 ## PPDA
@@ -149,6 +152,8 @@ Her er top 10 for tacklinger per 90 min. i Premier League sæsonen 2019/2020 bå
 Her kan man se spillere som João Cancelo og Fabinho, som spiller på hold med høj boldbesiddelse, bliver krediteret for deres defensive aktioner når man justerer for boldbesiddelsen.
 
 ## Field Tilt
+
+
 
 
 _Dette indlæg vil løbende bliver opdateret med nye statistikker._
