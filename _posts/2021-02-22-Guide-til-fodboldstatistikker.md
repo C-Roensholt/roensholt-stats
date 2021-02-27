@@ -6,6 +6,7 @@ subtitle: >-
     Statistikker i fodbold er eksploderet i de seneste år og det er svært at holde styr på dem. I dette indlæg vil jeg give et overblik over de nye statistikker som bliver brugt i dag.
 date: '2021-02-22'
 readtime: true
+thumbnail-img: /img/advanced_metrics/thumbnail.png
 ---
 
 Jeg vil give et overblik over de forskellige de nye, mere avancerede, statistikker som er kommet til fodboldverdenen i de seneste år. Yderligere vil jeg give kontekst til de forskellige statistikker og hvordan de kan bruges til at analysere spillere eller hold.
@@ -153,7 +154,15 @@ Her kan man se spillere som João Cancelo og Fabinho, som spiller på hold med h
 
 ## Field Tilt
 
+Field tilt er en ny måde at måle boldbesiddelse på. Ved udelukkende [kun at bruge boldbesiddelse](https://theathletic.com/2352067/2021/01/29/possession-the-most-dangerous-statistic-in-football/) kan interessante og vigtige informationer om kampen eller holdet blive skjult.
+\
+Et hold med 80% boldbesiddelse vurderes til at have domineret en kamp. Men hvis 60% af afleveringerne foregik på egen tredje del og holdet ikke skabte nogle chancer, vil dominansen ikke være stor. Det handler om hvor boldbesiddelse tager plads. Ligeledes kan et hold med lav boldbesiddelse, såsom Leicester 2015/2016 sæsonen, have en dyb struktureret defensiv, og lave hurtige kontraangreb som skaber farlige afslutninger.
 
+Fielt tilt er ikke den endegyldige løsning, men det kan give et bedre billede af hvorhenne boldbesiddelsen for de to hold tog plads. Field tilt måler andelen af boldbesiddelse, hvis man kun tager berøringer og afleveringer på den sidste tredje del af banen i betragtning.
+\
+Hvis f.eks. Manchester City havde 80 afleveringer på sidste tredje del, mens at Stoke kun havde 20 afleveringer på sidste tredje del, vil Manchester City have et field tilt på 80%.
+
+Som nævnt er field tilt ikke den endegyldige løsning, da det ikke måler hvor mange eller kvaliteten af chancer som holdet skabte. Her kan man bruge xG til at kvantificere kvaliteten af holdets chancer, og dermed skabe et bedre billede af kampen.
 
 
 _Dette indlæg vil løbende bliver opdateret med nye statistikker._
