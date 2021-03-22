@@ -2,11 +2,12 @@
 layout: post
 published: true
 title: Analyse af aldersfordelingen i den danske Superliga
-subtitle: >-
-  Dette blog post giver et lille indblik i alderfordelingen i dansk fodbold. Hvordan er den generelle aldersprofil at af dansk fodbold? Afhænger FCK for meget af alderende profiler og udgør 75% Nordsjællands samlede spilminutter virkelig af spillere under 21 år?
 date: '2021-02-06'
 readtime: true
 ---
+
+Denne blog post giver et lille indblik i alderfordelingen i dansk fodbold. Hvordan er den generelle aldersprofil at af dansk fodbold? Afhænger FCK for meget af alderende profiler og udgør 75% Nordsjællands samlede spilminutter virkelig af spillere under 21 år?
+
 ## Introduktion
 
 Aldersprofilen sæsonen 2020/2021 i den danske Superliga er ekstrem interessant. FC Nordsjælland med en gennemsnitsalder på 20 år og 292 dage har de den yngste trup i **hele Europa**. Samtidig skal et alderende FC København mandskab måske snart tænke på det generationsskifte, mens både AGF og FC Midtjylland har en god blanding af spillere i deres bedste  fodboldalder og ligeledes med unge spillere på vej op.

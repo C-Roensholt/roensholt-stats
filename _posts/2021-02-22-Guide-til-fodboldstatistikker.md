@@ -2,11 +2,11 @@
 layout: post
 published: true
 title: Guide til fodboldstatistikker
-subtitle: >-
-    Statistikker i fodbold er eksploderet i de seneste år og det er svært at holde styr på dem. I dette indlæg vil jeg give et overblik over de nye statistikker som bliver brugt i dag.
 date: '2021-02-22'
 readtime: true
 ---
+
+Statistikker i fodbold er eksploderet i de seneste år og det er svært at holde styr på dem. I dette indlæg vil jeg give et overblik over de nye statistikker som bliver brugt i dag.
 
 Jeg vil give et overblik over de forskellige de nye, mere avancerede, statistikker som er kommet til fodboldverdenen i de seneste år. Yderligere vil jeg give kontekst til de forskellige statistikker og hvordan de kan bruges til at analysere spillere eller hold.
 
@@ -164,7 +164,7 @@ Hvis f.eks. Manchester City havde 80 afleveringer på sidste tredje del, mens at
 Som nævnt er field tilt ikke den endegyldige løsning, da det ikke måler hvor mange eller kvaliteten af chancer som holdet skabte. Her kan man bruge xG til at kvantificere kvaliteten af holdets chancer, og dermed skabe et bedre billede af kampen.
 
 
-_Dette indlæg vil løbende bliver opdateret med nye statistikker._
+_Dette indlæg vil løbende blive opdateret med nye statistikker._
 
 _Kommende opdateringer: **[Expected Threat (xT)](https://karun.in/blog/expected-threat.html)**, **[Possession Value (PV)](https://www.statsperform.com/resource/evolving-our-possession-value-framework/)**_
 
