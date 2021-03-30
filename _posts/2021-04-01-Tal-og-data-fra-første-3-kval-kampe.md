@@ -1,6 +1,6 @@
 ---
 layout: post
-published: true
+published: false
 title: Tal, data og analyse fra Danmarks tre første VM kval kampe
 date: '2021-04-01'
 readtime: true
@@ -46,8 +46,8 @@ Men med Stryger's statistik med nu 32 kampe for landsholdet og intet nederlag ku
 
 #### Aflstuttende bemærkning
 
-Vi kan altså se at dansk fodbold generelt har en meget ung profil, hvor flere hold gør brug af unge spillere der samtidig har en relativ høj andel af holdets spilleminutter. Dette er en tendens som på flere måder kan ses med positive øjne.
+Det er vigtigt at notere at de tre omtalte kampe ikke er fuldstændig afgørende for hvilke spillere Hjulmand vælger til sin 23 mands trup til EM. Der er stadigvæk omkring 10 kampe tilbage i alle ligaer og derfor stadigvæk en chance for nogle spillere at gøre et større indtryk, hvis Dolberg f.eks. laver 6 mål i hans sidste 8 kampe, mens at FCK fortsætter deres nedgang og Wind bliver bragt med, vil snakken om 9'er positionen igen bluse op.
 
-Det fremmer både de unge danske spilleres udvikling, og samtidig giver det incitament for store unge talenter til at vælge Superligaen frem for større destinationer i Europa. Her vil spilletiden være mere sparsom, mens de i Superligaen kan se at de får chancen. Det har vi bl.a. for nyligt set med Andreas Schjelderup, som valgte FC Nordsjælland fremfor flere større destinationer i Europa. Samtidig ser vi at de hold som ligger i toppen af ligaen har en større diversitet i deres trup med flere ældre erfarne spillere.
+Der er dog ingen tvivl om at de tre kampe har givet Hjulmand en endnu bedre idé om hvilke spillere han vil vælge til EM truppen. Kampene har dog yderligere givet ham nogle positive hovedbrud, hvor specielt højre kanten med Skov Olsen og Yussuf Poulsen er blevet endnu tættere.
 
-Brugen af unge spillere skal dog ikke gå på kompromis med kvaliteten af dansk fodbold på den store skala, for det vigtigste for dansk foldbold er at de danske klubber klarer sig godt i de europæiske turneringer. Men brugen af unge spillere er dog nødvendigvis ikke med til at foringe kvalititen af dansk fodbold på europæisk basis, og skal ses med positive øjne når vi ligeledes kigger på talent udviklingen af unge danske spillere til det fremtidige landshold.
+Kampene har ligeledes givet os en idé om hvilket indtryk Hjulmand har på det danske landshold spillestil. Der er ikke blevet lavet nogen revolution, og hvorfor gøre det efter en succesfuld periode med Hareide, men han har bestemt sat sit aftryk med en fast struktur i opbygningspillet og 
