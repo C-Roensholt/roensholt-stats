@@ -1,7 +1,7 @@
 ---
 layout: post
 published: true
-title: Tal, data og analyse fra Danmarks tre første VM kval kampe
+title: Data og analyse af Danmarks VM Kvalifikations kampe
 date: '2021-04-01'
 readtime: true
 ---
@@ -69,12 +69,15 @@ Tre clean-sheets i tre kampe taler sit tydelige sprog om en dansk defensiv som s
 
 Når man kigger på hvor på banen Danmark lavede sine defensive aktioner (på de tre billeder nedenfor), hvilket kan udtrykke hvor på banen Danmark ligger deres pres, kan man se en tydelig tendens at Danmark holder modstanderne væk fra det danske felt. Moldova kampen er selvfølig uden for normalen grundet det svage moldoviske hold. Men i begge Danmark udekampe havde var kun ca. 30% af deres defensive aktioner på egen tredje del, og i kampen mod Israel var størstedelen af de defensive aktioner faktisk på den sidste tredje del. Dette er, uden den større sammenligning, tal som Liverpool præsterer i Premier League.
 
-Så med spillere i den danske bagkæde fra store adresser i England, Italien og Spanien er der stor grund til at være optimistik for den danske defensiv, også mod stærkere modstandere til EM slutrunden.
+Med spillere i den danske bagkæde fra store adresser i England, Italien og Spanien er der stor grund til at være optimistik for den danske defensiv, også mod stærkere modstandere til EM slutrunden.
 
+Størstedelen af de danske aktioner foregik i kampen mod Israel på sidste tredje del af banen 
 ![alt text](/img/denmark_wcq/defensive_actions_line_wcq01.png)
 
+Moldovas svage defensiv betød at Danmark pressede højt og lavede mange defensive aktioner højt på banen.
 ![alt text](/img/denmark_wcq/defensive_actions_line_wcq02.png)
 
+I en kontrolleret kamp holdte Danmark Østrig's offensiv langt fra eget mål, og de defensive aktioner foregik primært på midten af banen.
 ![alt text](/img/denmark_wcq/defensive_actions_line_wcq03.png)
 
 
@@ -127,20 +130,22 @@ Så selvom at både Mathias Jensen, Christian Nørgaard og Lasse Schøne gjorde 
 **Offensiven**
 
 Det helt store samtale emne i den danske offensiv er uden tvivl højre kanten.
-Her har Andreas Skov Olsen i høj grad gjort sig bemærket i hans indhop i både Israel og Østrig kampene, men også i 45 min. han fik mod Moldova hvor han sammen med Damsgaard var banens bedste.\
-Han har scoret på 2 ud af hans i alt 4 afslutninger i de tre kampe, mens hans leverede 2 assist i kampen mod Moldova. På den anden side har Yussuf Poulsen været meget anonym og har ikke været involveret i meget af de danske offensive spil.
+Andreas Skov Olsen har i høj grad gjort sig bemærket med hans indhop både mod Israel og Østrig, men også i de 45 min. mod Moldova hvor han sammen med Damsgaard var banens bedste.\
+Han har scoret på 2 ud af hans i alt 4 afslutninger i de tre kampe, mens hans leverede 2 assist i kampen mod Moldova. På den anden side har Yussuf Poulsen været meget anonym og har ikke været involveret i meget af de danske offensive spil. Det store dilemma er hvor meget Yussuf Poulsen bidrager til det kollektive spil, hvor hans løbe arbejde uden bold og defensive aktioner kan være centrale i kampe hvor Danmark i højere grad skal forsvare.
 
-Yussuf Poulsen var ikke så markant imod Israel, hvorimod at Andreas Skov Olsen så rigtig god ud både da han blev skiftet ind i Israel kampen, men specielt i de 45 min. han fik imod Moldova.
+**Danmark's skud og mål i de tre VM Kvalifikations kampe**
+![alt text](/img/denmark_wcq/wcq_shop.png)
 
-På den anden kant viste Braithwaite rigtig fine takter imod Israel, hvor han kronede en rigtig stabil indsats med et fantastisk mål. Ved målet var både hans løb med bolden og afslutningen af høj international klasse. Samtidig spillede Mikkel Damsgaard en yderst god kamp imod Moldova og han kan agerere som en virkelig kompetent erstatning for Braithwaite.
-Braithwaite fart og løb i dybden skaber ligeledes en god dynamik med Jonas Wind evne til at droppe ned i banen og indgå i kombinationer, hvilket med Damsgaard, som har en større tendens til være involveret centralt, skaber lidt problematikker som man har set med Pep Biel og Wind i FC København.
+På den anden kant viste Braithwaite rigtig fine takter imod Israel, hvor han kronede en god indsats med et fantastisk mål. Ved målet var både hans løb med bolden og afslutningen af høj international klasse. Samtidig spillede Mikkel Damsgaard en yderst god kamp imod Moldova og han kan agerere som en virkelig kompetent erstatning for Braithwaite.
+Braithwaite fart og løb i dybden skaber ligeledes en god dynamik med Jonas Wind evne til at droppe ned i banen og indgå i kombinationer, hvilket med Damsgaard, som har en større tendens til være involveret centralt, skaber lidt problematikker som man har set med Pep Biel og Wind i FC København.\
+Lige nu er Jonas Wind førstevalg til 9'er positionen, men gode præstationer fra Kasper Dolberg fremmod EM slutrunden, og et skrænkeden FC København, ville sagtens kunne resultere i en rotation på denne position.
 
 
 
-#### Aflstuttende bemærkning
+#### Status før EM
 
 Det er vigtigt at notere at de tre omtalte kampe ikke er fuldstændig afgørende for hvilke spillere Hjulmand vælger til sin 23 mands trup til EM. Der er stadigvæk omkring 10 kampe tilbage i alle ligaer og derfor stadigvæk en chance for nogle spillere at gøre et større indtryk, hvis Dolberg f.eks. laver 6 mål i hans sidste 8 kampe, mens at FCK fortsætter deres nedgang og Wind bliver bragt med, vil snakken om 9'er positionen igen bluse op.
 
 Der er dog ingen tvivl om at de tre kampe har givet Hjulmand en endnu bedre idé om hvilke spillere han vil vælge til EM truppen. Kampene har dog yderligere givet ham nogle positive hovedbrud, hvor specielt højre kanten med Skov Olsen og Yussuf Poulsen er blevet endnu tættere.
 
-Kampene har ligeledes givet os en idé om hvilket indtryk Hjulmand har på det danske landshold spillestil. Der er ikke blevet lavet nogen revolution, og hvorfor gøre det efter en succesfuld periode med Hareide, men han har bestemt sat sit aftryk med en fast struktur i opbygningspillet og 
+Kampene har ligeledes givet os en idé om hvilket indtryk Hjulmand har på det danske landshold spillestil. Der er ikke blevet lavet nogen revolution, og hvorfor gøre det efter en succesfuld periode med Hareide, men han har bestemt sat sit aftryk med en fast struktur i opbygningspillet og en meget solid defensiv.
