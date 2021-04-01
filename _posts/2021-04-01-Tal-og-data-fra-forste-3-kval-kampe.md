@@ -10,7 +10,8 @@ Det danske herrelandshold fik med de 3 første kampe i VM Kvalifikationen skudt 
 
 ## Det forkromede overblik
 
-Danmark spillede i den foregående uge spillet de tre første kampe i VM kvalifikationen hen imod VM i Qatar 2022. De tre kampe var imod Israel, Moldova og Østrig, og de mangler derfor at møde Skotland og Færøerne som de to sidste hold i gruppen.
+Danmark spillede i den foregående uge spillet de tre første kampe i VM kvalifikationen hen imod VM i Qatar 2022. De tre kampe var imod Israel, Moldova og Østrig, og de mangler derfor at møde Skotland og Færøerne som de to sidste hold i gruppen.\
+Med tre sejre og en målscore på 14-0 var præstationerne fortrinelige og lover rigtig godt frem imod EM slutrunden til sommer.
 
 
 #### De overordnede tendenser under Hjulmand
