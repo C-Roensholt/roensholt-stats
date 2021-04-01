@@ -99,7 +99,7 @@ Joakim Mæhle har med sine seneste præstationer, for både Danmark og Atalanta,
 ![alt text](/img/denmark_wcq/Mæhle_Wass_passes_wcq01.png)
 
 **Mæhle og Wass afleveringer mod Østrig**
-![alt text](/img/denmark_wcq/Mæhle_Wass_passes_wcq03.png)
+![alt text](/img/denmark_wcq/Maehle_Wass_passes_wcq03.png)
 
 Jens Stryger Larsen spillede en rigtig god kamp imod Moldova, hvor han deltog i spillet højt banen og i feltet. Det resulterede også i en god scoring. Nicolai Boilesen var ikke nært så involveret i det offensive spil, men han var, som i FC København, en stor del af spillet med bolden. Hans håb for at komme med i EM truppen lægger i høj grad på Hjulmands tanker om at have chancen for at spille med 3 forsvarspillere, hvor han kan spille som den tredje midterforsvar i venstre side. Venstrebacken er nemlig domineret af Mæhle, hvor kun skader eller andre uheld betyder at han ikke starter inde ved EM. Stryger's gode præstation betyder ligeledes at bekymringen om venstrebacken er blevet væsentligt mindre.
 
@@ -107,8 +107,6 @@ Jens Stryger Larsen spillede en rigtig god kamp imod Moldova, hvor han deltog i 
 ![alt text](/img/denmark_wcq/Boilesen_Stryger_passes_wcq02.png)
 
 Det kan med stor sandsynlig betyde at Boilesen's plads i den danske EM trup hænger i en tynd tråd. Ligeledes når man ser på at de gange 3 back kæden er blevet brugt har den bestået af AC, Kjær og Joachim Andersen, hvor en stor kapacitet som Jannick Vestergaard sidder på bænken. Vestergaard kan i høj grad også spille i venstre side af en bagkæde, som han gør så godt i Southampton.
-
-![alt text](/img/denmark_wcq/Boilesen_Stryger_passes_wcq02.png)
 
 **Midtbanen**
 
