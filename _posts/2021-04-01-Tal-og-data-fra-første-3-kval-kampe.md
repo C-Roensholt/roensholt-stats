@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 title: Tal, data og analyse fra Danmarks tre første VM kval kampe
 date: '2021-04-01'
 readtime: true
@@ -17,15 +17,27 @@ Danmark spillede i den foregående uge spillet de tre første kampe i VM kvalifi
 
 POSSESSION OG FIELD TILT
 
-![alt text](/img/league_average_age_europe.png)
+![alt text](/img/denmark_wcq/possession_field_tilt_wcq01.png)
+
+![alt text](/img/denmark_wcq/possession_field_tilt_wcq02.png)
+
+![alt text](/img/denmark_wcq/possession_field_tilt_wcq03.png)
 
 PASSING NETWORKS
 
-![alt text](/img/team_average_age_europe.png)
+![alt text](/img/denmark_wcq/passing_network_wcq01.png)
+
+![alt text](/img/denmark_wcq/passing_network_wcq02.png)
+
+![alt text](/img/denmark_wcq/passing_network_wcq03.png)
 
 DEFENSIVE ACTIONS
 
-![alt text](/img/team_average_age_europe.png)
+![alt text](/img/denmark_wcq/defensive_actions_line_wcq01.png)
+
+![alt text](/img/denmark_wcq/defensive_actions_line_wcq02.png)
+
+![alt text](/img/denmark_wcq/defensive_actions_line_wcq03.png)
 
 
 
