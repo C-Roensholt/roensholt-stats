@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 title: Data og analyse af Danmarks VM Kvalifikations kampe
 date: '2021-04-01'
 readtime: true
