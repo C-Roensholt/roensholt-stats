@@ -6,16 +6,14 @@ date: '2021-04-01'
 readtime: true
 ---
 
-Det danske herrelandshold fik med de 3 første kampe i VM Kvalifikationen skudt gang i et spændende og afgørende år for landshold fodbolden. Derfor vil jeg kigge på hvordan holdet og spillerene kom ud af VM kval kampene, og ikke mindst den sidste samling før EM slutrunden.
+Det danske herrelandshold fik med de 3 første kampe i VM Kvalifikationen skudt gang i et spændende og afgørende år for landsholds fodbolden. Derfor vil jeg kigge på hvordan holdet og spillerne kom ud af VM kvalifikations kampene, og ikke mindst den sidste samling før EM udtagelsen.
 
 ## Det forkromede overblik
 
-Danmark spillede i den foregående uge spillet de tre første kampe i VM kvalifikationen hen imod VM i Qatar 2022. De tre kampe var imod Israel, Moldova og Østrig, og de mangler derfor at møde Skotland og Færøerne som de to sidste hold i gruppen.\
+Danmark spillede i den foregående uge de tre første kampe i VM kvalifikationen mod VM i Qatar 2022. De tre kampe var mod Israel, Moldova og Østrig, og danskerne mangler derfor at møde Skotland og Færøerne som de to sidste hold i gruppen.\
 Med tre sejre og en målscore på 14-0 var præstationerne fortrinelige og lover rigtig godt frem imod EM slutrunden til sommer.
 
-
 #### De overordnede tendenser under Hjulmand
-
 
 **Spillet med bolden**
 
@@ -34,7 +32,7 @@ Danmark dominerede på alle parametre kampen mod Moldova. Det ses ligeledes på 
 
 **Boldbesiddelse og field tilt mod Østrig**
 
-Hvis vi kigger på Østrig kampen var det i højere grad en kamp der bøljede frem og tilbage. Østrig havde overtage i indledningen af kampen uden for alvor at blive farlige, mens at Danmark stille og roligt spillede sig ind i kampen hvilket ende i to scoringer omkring det 60 minut. Herefter overlod kampen spilovertaget til Østrig, men viste i den grad at de også var farlige i kontraspillet.
+Hvis vi kigger på Østrig kampen var det i højere grad en kamp der bøljede frem og tilbage. Østrig havde overtaget i indledningen af kampen uden for alvor at blive farlige, mens at Danmark stille og roligt spillede sig ind i kampen hvilket endte med to scoringer omkring det 60 minut. Herefter overlod Danmark spilovertaget til Østrig, men viste i den grad at de også var farlige i kontraspillet.
 ![alt text](/img/denmark_wcq/possession_field_tilt_wcq03.png)
 
 <!--- Israel - Danmark | Danmark - Moldova | Østrig - Danmark
@@ -43,10 +41,10 @@ Hvis vi kigger på Østrig kampen var det i højere grad en kamp der bøljede fr
 
 **Strukturen i opbygningsspillet**
 
-Et passing network kan give et yderligere indblik i strukturen på holdet inden den første udskiftning, altså hvordan holdet positioner sig når de er i boldbesiddelse.
+Et passing network kan give et yderligere indblik i strukturen på holdet inden den første udskiftning, altså hvordan holdet positionerer sig når de er i boldbesiddelse.
 
-Hvis vi kigger på de to første kampe mod Israel og Moldova er der en meget defineret struktur hvordan Danmark er struktureret i opbygningspillet. Her er de to backer skubbet op og 6'eren, henholdsvis Pierre-Emile (23) og Nørgaard (15) ligger centralt og giver mere frihed til de to 8'ere til at komme frem i banen. Det giver frihed til Delaney's dynamiske løb og Eriksen's afleveringer. og i kampen mod Moldova udløste et mål til Mathias Jensen. \
-De offensive og brede backer betyder at kanterne, i langt højere end under Åge Hariede og Morten Olsen, søger mere centralt og med dybe løb. Hvilket passer godt på de spilleprofiler Danmark har på kanterne med Damsgaard og Yussuf som er gode centralt, og Braithwaite og Skov Olsen som søger mere dybt. De mere centrale og dybe kanter og den ikke faste 10'er betyder ligeledes at 9'eren hos Danmark kan søge mere ned i banen og indgå i kombinationer. Dette passer Jonas Wind rigtig godt, mens at Kasper Dolberg, som ellers efter hans tid i Ajax, skal omvende sig lidt fra hans kampe i Nice, hvor han i højere grad er en traditionel 9'er i boksen.
+Hvis vi kigger på de to første kampe mod Israel og Moldova er der en meget defineret struktur hvordan Danmark er struktureret i opbygningspillet. Her skubber de to backer op og 6'eren, henholdsvis Pierre-Emile (23) og Nørgaard (15) ligger centralt og giver mere frihed til de to 8'ere til at komme frem i banen. Det giver frihed til Delaney's dynamiske løb og Eriksen's afleveringer, og i kampen mod Moldova udløste et mål til Mathias Jensen. \
+De offensive og brede backer betyder at kanterne, i langt højere end under Åge Hariede og Morten Olsen, søger mere centralt og med dybe løb. Hvilket passer godt på de spilleprofiler Danmark har på kanterne med Damsgaard og Yussuf som er gode centralt, og Braithwaite og Skov Olsen som søger mere dybt. De mere centrale og dybe kanter og den ikke faste 10'er betyder ligeledes at 9'eren hos Danmark kan søge mere ned i banen og indgå i kombinationer. Det passer Jonas Wind rigtig godt, mens at Kasper Dolberg, som ellers efter hans tid i Ajax, skal omvende sig lidt fra hans kampe i Nice, hvor han i højere grad er en traditionel 9'er i boksen.
 
 ![alt text](/img/denmark_wcq/passing_network_wcq01.png)
 
