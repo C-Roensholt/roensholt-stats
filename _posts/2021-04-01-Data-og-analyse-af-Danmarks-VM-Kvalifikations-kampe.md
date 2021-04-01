@@ -124,7 +124,7 @@ Pierre-Emile Højbjerg var en af højdepunkterne i kampen imod Israel. Han domin
 Så selvom at både Mathias Jensen, Christian Nørgaard og Lasse Schøne gjorde det ganske udemærket imod Moldova er midtbane konstalationen til EM slutrunden efterhånden ved at være fuldstændigt fastlagt.
 
 **Mathias Jensen, Nørgaard og Schøne afleveringer mod Moldova**
-![alt text](/img/denmark_wcq/Delaney_Højbjerg_Eriksen_wcq03.png)
+![alt text](/img/denmark_wcq/Jensen_Nørgaard_Schöne_wcq02.png)
 
 **Offensiven**
 
