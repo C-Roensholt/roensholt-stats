@@ -23,6 +23,10 @@ POSSESSION OG FIELD TILT
 
 ![alt text](/img/denmark_wcq/possession_field_tilt_wcq03.png)
 
+Israel - Danmark | Danmark - Moldova | Østrig - Danmark 
+:-----------:|:-------------------:|:-------------:
+![alt text](/img/denmark_wcq/possession_field_tilt_wcq01.png) | ![alt text](/img/denmark_wcq/possession_field_tilt_wcq02.png) | ![alt text](/img/denmark_wcq/possession_field_tilt_wcq03.png)
+
 PASSING NETWORKS
 
 ![alt text](/img/denmark_wcq/passing_network_wcq01.png)
