@@ -4,9 +4,35 @@ title: Data Visualiseringer
 subtitle: 
 ---
 
-Her er alle data visualiseringer.
-\
-Jeg har brugt Python og Matplotlib til alle mine visualiseringer.
+Nedenfor kan ses de statiske visualiseringer jeg har lavet med Python, mens mine dashboards gennem Tableau kan ses her: https://public.tableau.com/profile/christian.r.nsholt3575#!/
+
+### Radar visualisering
+
+En percentil rangering radar som kan evaluere en spillers spillestil ved at se på offensive, defensive og i boldbesiddelse karakteristika.
+
+![Alt Text](/img/viz_page/højbjerg_radar.png)
+
+### Spilovertag gennem en kamp
+
+Denne visualisering giver et overblik over hvilket hold der havde spilovertaget mht. til boldbesiddelse og field tilt. Field tilt måler boldbesiddelse med kun afleveringer på holdets sidste tredje del, og kan dermed kvantificere om holdet med boldbesiddelsen havde bolden i farlige områder.
+
+![Alt Text](/img/viz_page/possession_field_tilt.png)
+
+### Defensive aktioner
+
+Her kan det ses hvor på banen holdet lavede deres defensive aktioner, hvilket giver et indblik i hvor holdet ladge deres pres.
+
+![Alt Text](/img/viz_page/defensive_actions_line.png)
+
+Liverpool's pres er i de seneste 12 sæsoner flyttet længere frem på banen, og de har de seneste sæsoner mange defensive aktioner langt fremme på banen.
+
+![Alt Text](/img/viz_page/10_seasons_avg_defense.png)
+
+### Swarm plot
+
+Et "swarm plot" er en god måde at sammenligne to eller flere spillere på flere forskellige parametre, som det ses med Englands tre højre backer.
+
+![Alt Text](/img/viz_page/taa_james_trippier.png)
 
 ### Superligaen stilling uge for uge
 
