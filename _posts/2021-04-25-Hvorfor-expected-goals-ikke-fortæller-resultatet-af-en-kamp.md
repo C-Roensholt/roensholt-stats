@@ -2,7 +2,7 @@
 layout: post
 published: true
 title: Hvorfor extected goals ikke fortæller resultatet en kamp
-date: '2021-04-01'
+date: '2021-04-25'
 readtime: true
 ---
 
