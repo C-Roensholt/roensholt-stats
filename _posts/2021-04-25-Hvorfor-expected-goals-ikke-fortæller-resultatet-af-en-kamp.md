@@ -21,7 +21,7 @@ Poisson fordelingen beskriver sandsynligheden for et bestemt antal hændelser sk
 Den matematiske formel ser således ud:
 ![alt text](/img/xG_infographic/poisson.png)
 
-Når vi kigger på en enkelt kamp kan vi bruge expected goals som det forventede antal mål, og dermed udskifte parameteren λ med expected goals værdien for holdet. F.eks. hvis Liverpool genererer 1.60 xG i en kamp kan vi udregne sandsynligheden for at de scorer 1 mål være 32%.
+Når vi kigger på en enkelt kamp kan vi bruge expected goals som det forventede antal mål, og dermed udskifte parameteren λ med expected goals værdien for holdet og _x_ med det antal mål vi vil udregne sandsynligheden for. F.eks. hvis Liverpool genererer 1.60 xG i en kamp kan vi udregne sandsynligheden for at de scorer 1 mål være 32%.
 
 ![alt text](/img/xG_infographic/poisson_calculated.png)
 
