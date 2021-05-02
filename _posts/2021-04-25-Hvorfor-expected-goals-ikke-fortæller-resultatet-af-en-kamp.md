@@ -8,24 +8,32 @@ readtime: true
 
 Expected goals (xG) bliver ofte brugt som en rettesnor for hvilket hold der "fortjente" at vinde en kamp. Ligeledes at 4 xG betyder at en spiller eller et hold "fortjente" eller "skulle have" scoret 4 mål, men det betyder faktisk at 4 mål var det mest **sandsynlige resultat** af alle skud. I dette blog indlæg vil give en bedre fortolkning af xG på enkelte kampe, og lave en visualisering som repræsentere sandsynlighed og usikkerheden ved xG på en enkelt kamp.
 
+![alt text](/img/xG_infographic/Leeds_vs_Liverpool_xG_racechart_gw32.png)
+_Det traditionelle xG racechart uden sandsynlighed_
+
 ## Sandsynlighedsfordeling af xG
 
+Fodbold er i sin natur en _uforudsigelig_ sport, derfor en rigtig god idé at kigge på fodbold gennem sandsynlighed beregninger. Da fodbold er en uforudsigelig sport kan mål blive scoret ud af ingenting, altså uden sammenhæng til tidligere mål, holdene eller andre faktorer. I statistik kan dette fænomen blive beskrevet gennen __poisson fordelingen__, som kan finde sandsynligheder af tilfældige og uafhængige hændelser i en given tidsramme.
+
 **Poisson-fordeling**
+Poisson fordelingen beskriver sandsynligheden for et bestemt antal hændelser sker i en bestemt tidsramme, f.eks. antal fødsler fra 10-11 på om lørdagen i Faxe, antal telefonsælger opkald på din telefon i uge 32 eller antal mål Brøndby scorer på 90 minutter. Sandsynlighederne bliver udregnet gennem en parameter λ, som beskriver det antal mål vi forventer i de 90 minutter.
 
+Den matematiske formel ser således ud:
+![alt text](/img/xG_infographic/poisson.png)
 
+Når vi kigger på en enkelt kamp kan vi bruge expected goals som det forventede antal mål, og dermed udskifte parameteren λ med expected goals værdien for holdet. F.eks. hvis Liverpool genererer 1.60 xG i en kamp kan vi udregne sandsynligheden for at de scorer 1 mål være 32%.
 
-![alt text](/img/xG_infographic/Leeds_vs_Liverpool_xG_racechart_gw32.png)
+![alt text](/img/xG_infographic/poisson_calculated.png)
 
-**Sandsynlighed for X mål scoret**
-
-Kasper Hjulmand er tit blevet skudt i skoene for at kun kunne spille på en måde. Boldbesiddende fodbold i en struktureret 4-3-3 eller 4-2-3-1, men hvis vi kigger på hvordan boldbesiddelse og field tilt (boldbesiddelse med kun afleveringer på sidste tredje del, og kan dermed "måle" hvor meget holdet dominerer det farligste område på banen) så er det ikke den boldbesiddende fodbold som træder frem.
+Hvis vi igen kigger på Leeds (2.62 xG) mod Liverpool (1.60 xG) kan denne udregning gentages for at begge hold scorer 0, 1, 2, 3 osv. mål. Sandsynlighederne for at begge hold scorer 0 til 9 er dermed:
 
 ![alt text](/img/xG_infographic/goal_probabilities_viz.png)
 
-**Sandsynlighed for sejr, nederlag og uafgjort**
+Når vi har udregnet sandsynligheden for at begge hold scorer mellem 0 og 9 mål kan vi nu udregne sandsynligheden for resultatet af kampen, f.eks. vil sandsynligheden for 1-1 være (0.19*0.32 = 0.0608) 6,05%, mens at sandsynligheden for at Leeds vinder 2-1 er (0.25*0.32 = 0.0807) 8,07%.
+Udregningen kan så gentages for alle mulige resultater, og ved at lægge alle resultater hvor Liverpool vinder (0-1, 1-2, osv.), Leeds vinder (1-0, 2-1 osv.) og uagjorte resultater sammen kan sandsynligheden for sejr, nederlag og ufgjort blive udregnet. Disse sandsynligheder i Leeds - Liverpool kampen er sådan fordelt:
 
 ![alt text](/img/xG_infographic/win_probability_viz.png)
 
-
 ## Den komplette xG grafik
+
 
