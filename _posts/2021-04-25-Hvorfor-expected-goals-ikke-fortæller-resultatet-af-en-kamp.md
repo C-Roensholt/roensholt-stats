@@ -30,10 +30,16 @@ Hvis vi igen kigger på Leeds (2.62 xG) mod Liverpool (1.60 xG) kan denne udregn
 ![alt text](/img/xG_infographic/goal_probabilities_viz.png)
 
 Når vi har udregnet sandsynligheden for at begge hold scorer mellem 0 og 9 mål kan vi nu udregne sandsynligheden for resultatet af kampen, f.eks. vil sandsynligheden for 1-1 være (0.19*0.32 = 0.0608) 6,05%, mens at sandsynligheden for at Leeds vinder 2-1 er (0.25*0.32 = 0.0807) 8,07%.
-Udregningen kan så gentages for alle mulige resultater, og ved at lægge alle resultater hvor Liverpool vinder (0-1, 1-2, osv.), Leeds vinder (1-0, 2-1 osv.) og uagjorte resultater sammen kan sandsynligheden for sejr, nederlag og ufgjort blive udregnet. Disse sandsynligheder i Leeds - Liverpool kampen er sådan fordelt:
+Udregningen kan så gentages for alle mulige resultater, og ved at lægge alle resultater hvor Liverpool vinder (0-1, 1-2, osv.), Leeds vinder (1-0, 2-1 osv.) og uagjorte resultater sammen kan sandsynligheden for sejr, nederlag og ufgjort blive udregnet. Disse sandsynligheder i kampen er fordelt således:
 
 ![alt text](/img/xG_infographic/win_probability_viz.png)
 
 ## Den komplette xG grafik
 
+De forskellige grafikker kan sammensættes i en enkel visualisering.
 
+![alt text](/img/xG_infographic/Leeds_vs_Liverpool_xG_infographic_gw32.png)
+
+Denne visualisering giver, sammenlignet til den traditionelle visualisering, en bedre forståelse af hvordan expected goals på enkelte kampe ikke fortæller resultatet. Fodbold er en udforudsigelig sport og man kan, som vist, gennem sandsynlighedsregning få en bedre intuitiv forståelse uforudsigeligheden og variansen af mål og enkelstående resultater i fodbold.
+
+Tak for at læse med, hvis du er interesseret kan koden for beregningerne og visualiseringerne findes [her](https://github.com/C-Roensholt/Improving-Match-xG-Infographics)
