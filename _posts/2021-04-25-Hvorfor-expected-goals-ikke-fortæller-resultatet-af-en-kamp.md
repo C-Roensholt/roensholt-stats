@@ -2,6 +2,7 @@
 layout: post
 published: true
 title: Hvorfor extected goals ikke fortæller resultatet en kamp
+image: /img/xG_infographic/Leeds_vs_Liverpool_xG_infographic_gw32.png
 date: '2021-04-25'
 readtime: true
 ---
