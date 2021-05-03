@@ -9,17 +9,19 @@ readtime: true
 
 Expected goals (xG) bliver ofte brugt som en rettesnor for hvilket hold der "fortjente" at vinde en kamp. Ligeledes at 4 xG betyder at en spiller eller et hold "fortjente" eller "skulle have" scoret 4 mål, men det betyder faktisk at 4 mål var det mest **sandsynlige resultat** af alle skud. I dette blog indlæg vil give en bedre fortolkning af xG på enkelte kampe, og lave en visualisering som repræsentere sandsynlighed og usikkerheden ved xG på en enkelt kamp.
 
+Jeg vil bruge 1-1 kampen mellem Leeds og Liverpool som eksempel, og den traditionelle xG grafik vil typisk minde om denne: 
 ![alt text](/img/xG_infographic/Leeds_vs_Liverpool_xG_racechart_gw32.png)
 _Det traditionelle xG visualisering i en kamp mellem Leeds og Liverpool_
 
-## Sandsynlighedsfordeling af xG
+## Fodbold - En uforudsigelig og tilfældig sport
 
-Fodbold er i sin natur en _uforudsigelig_ sport, derfor en rigtig god idé at kigge på fodbold gennem sandsynlighed beregninger. Da fodbold er en uforudsigelig sport kan mål blive scoret ud af ingenting, altså uden sammenhæng til tidligere mål, holdene eller andre faktorer. I statistik kan dette fænomen blive beskrevet gennen __poisson fordelingen__, som kan finde sandsynligheder af tilfældige og uafhængige hændelser i en given tidsramme.
+Fodbold er i sin natur en _uforudsigelig_ sport, derfor en rigtig god idé at kigge på fodbold gennem sandsynlighed beregninger. Da fodbold er en uforudsigelig sport kan mål blive scoret ud af ingenting, altså uden sammenhæng til tidligere mål, holdene eller andre faktorer. I statistik kan dette fænomen blive beskrevet gennen **poisson fordelingen**__**, som kan finde sandsynligheder af tilfældige og uafhængige hændelser i en given tidsinterval.
 
 **Poisson-fordeling**
+
 Poisson fordelingen beskriver sandsynligheden for et bestemt antal hændelser sker i en bestemt tidsramme, f.eks. antal fødsler fra 10-11 på om lørdagen i Faxe, antal telefonsælger opkald på din telefon i uge 32 eller antal mål Brøndby scorer på 90 minutter. Sandsynlighederne bliver udregnet gennem en parameter λ, som beskriver det antal mål vi forventer i de 90 minutter.
 
-Den matematiske formel ser således ud:
+Rent matematisk ser det således ud:
 ![alt text](/img/xG_infographic/poisson.png)
 
 Når vi kigger på en enkelt kamp kan vi bruge expected goals som det forventede antal mål, og dermed udskifte parameteren λ med expected goals værdien for holdet og _x_ med det antal mål vi vil udregne sandsynligheden for. F.eks. hvis Liverpool genererer 1.60 xG i en kamp kan vi udregne sandsynligheden for at de scorer 1 mål være 32%.
