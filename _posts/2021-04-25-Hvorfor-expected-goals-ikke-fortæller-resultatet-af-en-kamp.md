@@ -9,7 +9,7 @@ readtime: true
 Expected goals (xG) bliver ofte brugt som en rettesnor for hvilket hold der "fortjente" at vinde en kamp. Ligeledes at 4 xG betyder at en spiller eller et hold "fortjente" eller "skulle have" scoret 4 mål, men det betyder faktisk at 4 mål var det mest **sandsynlige resultat** af alle skud. I dette blog indlæg vil give en bedre fortolkning af xG på enkelte kampe, og lave en visualisering som repræsentere sandsynlighed og usikkerheden ved xG på en enkelt kamp.
 
 ![alt text](/img/xG_infographic/Leeds_vs_Liverpool_xG_racechart_gw32.png)
-_Det traditionelle xG racechart uden sandsynlighed_
+_Det traditionelle xG visualisering i en kamp mellem Leeds og Liverpool_
 
 ## Sandsynlighedsfordeling af xG
 
@@ -36,10 +36,10 @@ Udregningen kan så gentages for alle mulige resultater, og ved at lægge alle r
 
 ## Den komplette xG grafik
 
-De forskellige grafikker kan sammensættes i en enkel visualisering.
+De forskellige grafikker kan sammensættes i en enkel visualisering. Denne visualisering giver, sammenlignet til den traditionelle grafik, en bedre forståelse af hvordan expected goals på enkelte kampe ikke fortæller resultatet. 
 
 ![alt text](/img/xG_infographic/Leeds_vs_Liverpool_xG_infographic_gw32.png)
 
-Denne visualisering giver, sammenlignet til den traditionelle visualisering, en bedre forståelse af hvordan expected goals på enkelte kampe ikke fortæller resultatet. Fodbold er en udforudsigelig sport og man kan, som vist, gennem sandsynlighedsregning få en bedre intuitiv forståelse uforudsigeligheden og variansen af mål og enkelstående resultater i fodbold.
+Fodbold er en udforudsigelig sport og man kan, som vist, gennem sandsynlighedsregning få en bedre intuitiv forståelse uforudsigeligheden og variansen af mål og enkelstående resultater i fodbold.
 
 Tak for at læse med, hvis du er interesseret kan koden for beregningerne og visualiseringerne findes [her](https://github.com/C-Roensholt/Improving-Match-xG-Infographics)
