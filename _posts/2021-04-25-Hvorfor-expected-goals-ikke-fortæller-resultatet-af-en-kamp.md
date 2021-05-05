@@ -1,7 +1,7 @@
 ---
 layout: post
 published: true
-title: Hvorfor xG ikke er resultatet af kampen - Om sandsynlighed og uforudsigelighed i foldbold
+title: Hvorfor xG ikke er resultatet af en kamp
 image: /img/xG_infographic/Leeds_vs_Liverpool_xG_infographic_gw32.png
 date: '2021-04-25'
 readtime: true
@@ -17,7 +17,7 @@ _Det traditionelle xG visualisering i en kamp mellem Leeds og Liverpool_
 
 Fodbold er i sin natur en _uforudsigelig_ sport, og det er derfor nærliggende at se fodbold gennem sandsynligheder. Da fodbold er en uforudsigelig sport kan mål blive scoret ud af ingenting, altså uden sammenhæng til tidligere mål, holdene eller andre faktorer. I statistik kan dette fænomen blive beskrevet gennem poisson-fordelingen.
 
-**Poisson-fordeling**
+**Poisson-fordelingen**
 
 Poisson fordelingen beskriver sandsynligheden for at et bestemt antal hændelser sker i en bestemt tidsinterval, f.eks. antal fødsler fra kl. 10 til kl. 11 på om lørdagen i Faxe, antal telefonsælger opkald på din telefon i uge 32 eller antal mål Liverpool scorer på 90 minutter. Disse sandsynligheder bliver udregnet ved en parameter λ (lambda), som beskriver det antal mål vi forventer i de 90 minutter.
 
