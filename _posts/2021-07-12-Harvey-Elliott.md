@@ -3,7 +3,7 @@ layout: post
 published: true
 title: Harvey Elliott - Hvad kan han bringe til Anfield?
 #image: /img/xG_infographic/Leeds_vs_Liverpool_xG_infographic_gw32.png
-date: '2021-12-07'
+date: '2021-07-12'
 readtime: true
 ---
 
